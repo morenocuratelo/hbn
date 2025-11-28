@@ -1,0 +1,19 @@
+module.exports = {
+  root: true,
+  env: {
+    browser: true,
+    node: true,
+    es2021: true
+  },
+  extends: ["eslint:recommended"],
+  languageOptions: {
+    ecmaVersion: 2021,
+    sourceType: "script"
+  },
+  rules: {
+    "quotes": ["error", "double", { "allowTemplateLiterals": true }],
+    "no-unused-vars": ["warn", { "varsIgnorePattern": "^_" }],
+    "no-console": "off",
+    "max-len": ["warn", { "code": 180 }]
+  }
+};
