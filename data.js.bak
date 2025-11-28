@@ -1,0 +1,33 @@
+window.HBN_DATA = {
+	nav: [
+		{ id: 'home', label: 'Home' },
+		{ id: 'module1', label: 'Module 1: Neuroeconomics' },
+		{ id: 'module3', label: 'Module 3: Environment' },
+		{ id: 'module4', label: 'Module 4: Placebo' },
+		{ id: 'review', label: 'Revision' }
+	],
+
+	home: {
+		title: 'Human Behavioral Neuroscience',
+		subtitle: 'Interactive study platform for Modules 1, 3, and 4. Explore decision models, socio-cognitive plasticity, and placebo mechanisms.',
+		color: 'rose'
+	},
+
+	module1: {
+		intro: {
+			title: 'Module 1: Neuroeconomics & Decision Making',
+			text: 'Integrates neuroscience, economics, and psychology to explain how the brain evaluates options (Valuation), selects actions (Choice), and learns from outcomes (Learning).',
+			color: 'teal'
+		},
+		definitions: [
+			{ title: 'Price vs Value', text: 'Price is the objective market amount. Subjective Value is the perceived utility encoded in the vmPFC/OFC as a common currency.' },
+			{ title: 'Allais Paradox', text: 'Violates the independence axiom of EUT. Reveals the Certainty Effect: people overweight certain gains (100%) in a non-linear fashion.' },
+			{ title: 'Ultimatum Game', text: 'Responders reject unfair offers (<20%) to punish norm violations. Rejection correlates with anterior insula activation (disgust/negative affect).' }
+		],
+		sections: []
+	},
+
+	module3: {},
+	module4: {},
+	review: {}
+};

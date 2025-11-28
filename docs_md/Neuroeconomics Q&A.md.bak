@@ -1,0 +1,418 @@
+# **Neuroeconomics: Questions & Answers**
+
+## **Module 1: Foundations of Neuroeconomics**
+
+### **What is price?**
+
+Price is the objective monetary amount required or paid for a good or service. It is a numerical value explicitly assigned to an offer by the seller. In economic terms, it represents the exchange ratio between the good and money, serving as an external constraint on the consumer's budget set, distinct from internal preferences.
+
+### **What is cost?**
+
+Cost refers to the expenditure required to produce or procure a good or service. This includes the value of inputs such as labour, materials, capital, and overheads used in the production process. While price is what the consumer pays, cost is what the producer sacrifices.
+
+### **What is value?**
+
+Value reflects the subjective worth or usefulness an individual assigns to a good or service. Unlike price (which is objective and market-determined) and cost (which is production-determined), value is intrinsic to the decision-maker and depends on the utility they derive from consumption. In neuroeconomics, 'subjective value' is the common currency encoded in the brain (specifically the vmPFC/OFC) that allows for the comparison of disparate options (e.g., apples vs. oranges).
+
+### **What is the utility function?**
+
+A utility function is a mathematical representation ($U$) that assigns numeric scores to possible outcomes or bundles of goods. It captures an individual's preference ordering such that if Option A is preferred to Option B, then $U(A) \> U(B)$. It allows economists to model decision-making as a maximisation problem, where agents seek to maximise their expected utility.
+
+### **What is the Allais Paradox?**
+
+The Allais Paradox is a choice problem designed by Maurice Allais that demonstrates a systematic violation of the **Independence Axiom** of Expected Utility Theory. It shows that people often exhibit a 'certainty effect', preferring a guaranteed outcome over a probabilistic one with higher expected utility. For example, people might choose a sure £3,000 over an 80% chance of £4,000, but when the probabilities are scaled down (e.g., 20% vs 25%), their preferences reverse, contradicting the linear probability weighting assumed in classical theory.
+
+### **What’s Kahneman and Tversky’s theory about framing? What did they discover?**
+
+Their theory, **Prospect Theory**, challenges the assumption of invariance. They discovered the **Framing Effect**, showing that decision-makers react differently depending on whether choices are presented (framed) as **gains** or **losses**.
+
+* **Discovery:** People tend to be **risk-averse in the domain of gains** (preferring a sure gain over a gamble) and **risk-seeking in the domain of losses** (preferring a gamble to avoid a sure loss). This implies that the value function is concave for gains, convex for losses, and steeper for losses (loss aversion).
+
+### **Which are the characteristics of game theory experiments?**
+
+Game theory experiments model strategic interactions and typically involve:
+
+1. **Interdependence:** The payoff for one player depends on the actions of others.  
+2. **Explicit Rules:** Clearly defined constraints, available actions, and information states.  
+3. **Payoff Matrices:** Defined rewards or costs associated with every combination of actions.  
+4. **Strategic Reasoning:** Participants must form beliefs about the other players' likely moves (orders of belief).
+
+### **What are the Prisoner’s Dilemma games? What are the early findings?**
+
+The Prisoner’s Dilemma is a non-zero-sum game where two players must choose to **Cooperate** or **Defect**.
+
+* **Structure:** Mutual cooperation yields a moderate reward; mutual defection yields a lower payoff; but defecting while the other cooperates yields the highest payoff (temptation), leaving the cooperator with the lowest (sucker's payoff).  
+* **Early Findings:** While the **Nash Equilibrium** (the rational strategy) is mutual defection, empirical studies show a significant rate of cooperation (often \~50% in early rounds), especially in **iterated** (repeated) games where reputation and reciprocal altruism emerge.
+
+### **What are the Ultimatum Games? Which are the key results?**
+
+In the Ultimatum Game, a **Proposer** is given a sum of money and offers a split to a **Responder**. The Responder can accept (both get the split) or reject (neither gets anything).
+
+* **Key Results:** According to classical theory, a rational Responder should accept any non-zero amount, and a rational Proposer should offer the minimum possible. However, humans consistently reject offers perceived as unfair (typically those below 20-30% of the total). This reveals **inequity aversion**: individuals are willing to incur a personal cost to punish unfair behaviour. Neuroimaging links this rejection to activity in the **anterior insula** (associated with disgust/negative emotion).
+
+### **What is the difference between macroeconomics and microeconomics?**
+
+* **Microeconomics:** Focuses on the behaviour of individual agents (households, firms) and their interactions in specific markets. It analyses how prices and quantities are determined.  
+* **Macroeconomics:** Examines the economy as a whole, focusing on aggregate variables such as Gross Domestic Product (GDP), unemployment rates, inflation, and monetary policy.
+
+### **Which are the founding elements of neuroeconomics?**
+
+Neuroeconomics is an interdisciplinary field founded on:
+
+1. **Neuroscience:** Provides the tools to measure and manipulate brain activity (fMRI, EEG, single-unit recording).  
+2. **Economics:** Provides formal mathematical models of decision-making (Utility Theory, Game Theory).  
+3. **Psychology:** Provides insights into cognitive processes, heuristics, and behavioural biases.
+
+### **What is the difference between a descriptive and a normative theory? Is neuroeconomics descriptive, normative, or mixed?**
+
+* **Normative Theory:** Prescribes how rational agents *should* make decisions to maximise optimality (e.g., Expected Utility Theory).  
+* **Descriptive Theory:** Describes how agents *actually* make decisions, accounting for errors and biases (e.g., Prospect Theory).  
+* **Neuroeconomics:** It is **mixed** but leans heavily towards **descriptive**. It aims to build biologically plausible models of actual behaviour, though it uses normative economic models as a benchmark to identify where and why human brains deviate from optimality.
+
+### **Which are the stages of the decision process?**
+
+Standard models (e.g., Rangel, Camerer, Montague) identify five stages:
+
+1. **Representation:** Identifying the problem, the available options, and internal/external states.  
+2. **Valuation:** Assigning a subjective value to each option.  
+3. **Action Selection (Choice):** Comparing values and selecting an action.  
+4. **Outcome Evaluation:** Measuring the actual result against the expectation.  
+5. **Learning:** Updating internal value representations based on the prediction error (outcomes).
+
+### **What is the difference between spatial and temporal resolution? Which instruments excel at each?**
+
+* **Spatial Resolution:** The precision with which an instrument can determine *where* in the brain activity is occurring. **fMRI** (Functional Magnetic Resonance Imaging) excels here (millimetre scale).  
+* **Temporal Resolution:** The precision with which an instrument can determine *when* activity occurs. **EEG** (Electroencephalography) and **MEG** (Magnetoencephalography) excel here (millisecond scale).
+
+### **What is the difference between static and dynamic measurements?**
+
+* **Static Measurements:** Capture the brain's structural properties at a single point in time (e.g., anatomical MRI, CT scans, measuring cortical thickness).  
+* **Dynamic Measurements:** Record changes in brain function over time during a task (e.g., fMRI BOLD signal changes, EEG waveform fluctuations).
+
+### **What are the main methods used for exploring neuroeconomics? Pros/cons?**
+
+* **fMRI:** *Pros:* Excellent spatial resolution, non-invasive. *Cons:* Poor temporal resolution (blood flow is slow), expensive, indirect measure of neural activity.  
+* **EEG/ERP:** *Pros:* Excellent temporal resolution, direct measure of electrical activity, cheaper. *Cons:* Poor spatial resolution (inverse problem), sensitive to noise.  
+* **TMS (Transcranial Magnetic Stimulation):** *Pros:* Allows causal inferences by temporarily disrupting/enhancing regions (virtual lesions). *Cons:* Limited to surface cortex, can cause discomfort.  
+* **Single-Unit Recording:** *Pros:* Highest resolution (individual neurons). *Cons:* Highly invasive, restricted primarily to animal models.
+
+### **What is Chersi et al. study about? IPL role?**
+
+Chersi et al. investigated the organisation of motor acts. They found that neurons in the **Inferior Parietal Lobe (IPL)** are not merely coding for movement (e.g., "grasping") but are "goal-dependent". Different neurons fire for the *same* grasping act depending on the ultimate intention (e.g., grasping to eat vs. grasping to place). This suggests the IPL codes the **intention** of the action chain.
+
+### **What is the Newsome (1989) study? Perceptual discrimination task?**
+
+William Newsome used a **random-dot kinematogram** task where monkeys had to judge the direction of moving dots (with varying levels of coherence/noise).
+
+* **Findings:** Neurons in the **Middle Temporal (MT)** area (sensory) and **Lateral Intraparietal (LIP)** area tracked the accumulation of evidence. The firing rate of these neurons predicted the monkey's decision, providing a direct link between sensory encoding and decision-making behaviour.
+
+### **What are diffusion models? Which brain areas are involved?**
+
+**Drift-Diffusion Models (DDM)** describe decision-making as a process of accumulating noisy sensory evidence over time until a decision threshold (bound) is reached.
+
+* **Brain Areas:** The **LIP** (Lateral Intraparietal cortex) and **dlPFC** (dorsolateral Prefrontal Cortex) are thought to encode this "decision variable," ramping up their activity as evidence accumulates.
+
+### **What is the Heekeren et al. (2004) study? Roles of ventral temporal cortex and dlPFC?**
+
+Heekeren investigated perceptual decision-making using face vs. house discrimination.
+
+* **Ventral Temporal Cortex:** Specifically the Fusiform Face Area (FFA) and Parahippocampal Place Area (PPA), encoded the sensory evidence for faces and houses, respectively.  
+* **dlPFC:** acted as a comparator. Its activity correlated with the *difference* between the signals from the face and house areas.  
+* **Causality:** While the study showed strong fMRI correlations suggesting the dlPFC integrates evidence, fMRI alone is correlational and does not prove strict causality without lesion or stimulation data.
+
+### **How do dopaminergic, serotonergic, and cholinergic signals modulate OFC value representations and routing toward PFC regions?**
+
+These neuromodulators alter the signal-to-noise ratio and synaptic efficacy within the Orbitofrontal Cortex (OFC):
+
+* **Dopamine:** Signals reward prediction error and incentive salience ("wanting"), biasing the system towards "Go" pathways and reward pursuit.  
+* **Serotonin:** Often linked to cost assessment, impulse control, and patience (time discounting).  
+* **Acetylcholine:** Modulates attention and learning rates (plasticity).  
+* **Routing:** The balance of these chemicals determines whether value information is routed to the **Medial PFC** (for immediate execution/selection) or the **Lateral PFC** (for rule-based deliberation and maintenance).
+
+### **How can amygdala and hippocampus reshape dorsal prefrontal flow and downstream planning?**
+
+* **Inputs:** The **Amygdala** provides emotional valence (e.g., fear, threat) and the **Hippocampus** provides contextual memory (past experiences).  
+* **Mechanism:** These limbic structures project heavily to the **Medial Prefrontal Cortex (mPFC)**. Strong activation here (e.g., during high fear) can override the "rational" or cognitive planning flow from the **dorsolateral PFC** to the **premotor/parietal** cortices. This allows emotional survival mechanisms to hijack the decision loop, leading to avoidance or freeze behaviours rather than planned actions.
+
+### **How do cortico–basal ganglia loops interact with sensory→OFC→PFC→premotor/parietal pathways, and what if dopamine is dysregulated?**
+
+The cortex (OFC/PFC) generates multiple potential action plans. The **Basal Ganglia** act as a gatekeeper, using the **Direct (Go)** and **Indirect (No-Go)** pathways to select the most valuable action and inhibit competing ones.
+
+* **Dopamine's Role:** Dopamine facilitates the Direct pathway and inhibits the Indirect pathway.  
+* **Dysregulation:**  
+  * **Excess (Addiction):** Over-facilitation of the Direct pathway leads to impulsive, compulsive choices (inability to say no).  
+  * **Deficiency (Parkinson’s):** Over-activity of the Indirect pathway leads to an inability to initiate actions or choices (akinesia).
+
+### **What is the main role of the NAcc?**
+
+The **Nucleus Accumbens (NAcc)**, part of the ventral striatum, is central to the reward system. It encodes **reward anticipation** and **incentive salience** (how much an organism "wants" a reward). It integrates dopaminergic signals to energise approach behaviour towards distinct stimuli.
+
+### **What are the Tobler et al. study’s discoveries?**
+
+Tobler et al. found that the **Lateral Prefrontal Cortex (lPFC)** encodes not just expected value, but also **risk** (outcome variance). While the striatum tracks pure value, the lPFC activates more for riskier options (in risk-averse people, or generally tracking the spread of outcomes), suggesting a cortical role in integrating risk into value computations.
+
+### **What are the Knutson et al. findings?**
+
+Knutson demonstrated a neural dissociation between gain and loss anticipation:
+
+* **Nucleus Accumbens (NAcc):** Activity correlates with the magnitude of anticipated **gains**.  
+* **Anterior Insula:** Activity correlates with the magnitude of anticipated **losses** (and risk).
+
+### **What is the role of the orbitofrontal cortex (OFC)?**
+
+The OFC is the primary hub for **value encoding**. It integrates sensory and internal state information to assign a "common currency" value to goods. Crucially, it encodes value independently of the specific action required to obtain the good, allowing for abstract economic comparisons.
+
+### **What are the main findings of Padoa-Schioppa studies?**
+
+Recording from single neurons in monkey OFC, Padoa-Schioppa found neurons that encode the **subjective economic value** of chosen and offered goods (quantity × preference). These neurons were invariant to the spatial position of the juice or the motor response required, confirming the OFC computes "goods-based" value, not "action-based" value.
+
+### **How do lesion studies help infer brain function?**
+
+The lesion method relies on **double dissociation**. If damage to Area X impairs Function A but spares Function B, and damage to Area Y impairs Function B but spares Function A, researchers can infer that Area X is causally necessary for Function A. This establishes causality, which imaging studies (correlation) cannot do.
+
+### **What happens in patients with vmPFC impairment?**
+
+Patients with ventromedial Prefrontal Cortex (vmPFC) damage (e.g., the Phineas Gage profile) typically retain high intellect, memory, and language skills but suffer profound deficits in **socio-emotional decision-making**. They cannot integrate "somatic markers" (emotional signals) into their choices, leading to disadvantageous behaviour in real life and tasks like the Iowa Gambling Task.
+
+### **What is the role of dlPFC and what happens when disrupted?**
+
+The **dorsolateral Prefrontal Cortex (dlPFC)** is critical for **Executive Functions**: working memory, rule maintenance, and cognitive control. Disruption (e.g., via TMS or lesion) leads to impulsivity, an inability to inhibit prepotent responses, and difficulty planning or holding complex rules in mind.
+
+### **What is the role of ACC and what about the ERN?**
+
+* **ACC (Anterior Cingulate Cortex):** Functions as a conflict monitor. It detects when outcomes deviate from expectations or when there is response conflict (e.g., Stroop task).  
+* **ERN (Error-Related Negativity):** This is a specific ERP (event-related potential) waveform generated by the ACC that spikes milliseconds after a subject makes an error, signalling the need for increased cognitive control.
+
+## **Module 3: Environment, Plasticity, and Technology**
+
+### **What are enriched environments?**
+
+Enriched environments are experimental settings that provide enhanced sensory, cognitive, motor, and social stimulation compared to standard laboratory cages. For rodents, this includes running wheels, tunnels, nesting material, and social group housing.
+
+### **What did van Dellen discover with enriched environments in Huntington’s chorea models?**
+
+Van Dellen found that placing mouse models of Huntington’s disease in enriched environments significantly **delayed the onset of motor symptoms** and slowed the progression of the disease. Biologically, this was linked to the "rescue" of deficits in proteins like **BDNF** (Brain-Derived Neurotrophic Factor), suggesting that lifestyle and environmental complexity can modulate genetic neurodegenerative trajectories.
+
+### **What is the London Taxi Drivers experiment and its findings?**
+
+Maguire et al. compared the brains of licensed London taxi drivers (who pass "The Knowledge" exam) with controls.
+
+* **Findings:** Taxi drivers had significantly larger volume in the **posterior hippocampus** (specialised for spatial navigation) and smaller volume in the anterior hippocampus.  
+* **Correlation:** The volume increase correlated positively with the number of years spent driving, providing strong evidence for adult structural **neuroplasticity** driven by environmental demands.
+
+### **What do musicians and mathematicians’ studies teach us?**
+
+These studies (e.g., Gaser & Schlaug) reinforce the concept of **experience-dependent plasticity**. Professional musicians show increased grey matter density in motor, auditory, and visuospatial regions compared to amateurs and non-musicians. Similarly, mathematicians show increased density in parietal lobules (arithmetic processing). The brain structurally adapts to the specific cognitive load of the profession.
+
+### **What is the like effect? Brain areas and NAcc role?**
+
+The "like effect" refers to the neural reward response elicited by social validation in digital environments (e.g., Instagram likes).
+
+* **Mechanism:** Receiving likes activates the **Ventral Striatum / Nucleus Accumbens (NAcc)**. This recruits the same dopaminergic circuitry as food or money, creating a reinforcement loop that encourages continued posting and checking.
+
+### **What is the dopamine effect and its triggers?**
+
+The dopamine effect describes the reinforcing power of the neurotransmitter dopamine in the reward circuit.
+
+* **Triggers:** Dopamine is triggered not just by reward consumption, but primarily by **Prediction Error** (unexpected rewards), **Novelty**, and **Cues** (conditioned stimuli) that predict reward (e.g., the sound of a notification). It drives "wanting" and reward-seeking behaviour.
+
+### **What is the Seltzer et al. (2012) study and endocrine impact of tech-mediated communication?**
+
+Seltzer examined stress recovery in young girls using the Trier Social Stress Test.
+
+* **Conditions:** After stress, girls either: 1\) Texted their mother, 2\) Spoke to her on the phone, 3\) Saw her in person, or 4\) Had no contact.  
+* **Findings:** Texting produced cortisol and oxytocin levels identical to the "no contact" group. Only hearing the voice or physical presence lowered cortisol (stress) and raised oxytocin (bonding). This implies that text-based communication fails to activate the biological buffering systems evolved for social support.
+
+### **What are videogaming’s effects on the reward system and what is the craving hypothesis?**
+
+* **Reward System:** Gaming triggers massive dopamine release in the striatum, comparable to pharmacological stimulants during peak play.  
+* **Craving Hypothesis:** Over time, the cues associated with gaming (images, sounds) become conditioned triggers. These cues alone can elicit striatal activation and intense craving, even in the absence of the game, similar to substance addiction dynamics.
+
+### **What is the chicken-and-egg dilemma in gaming neuroscience? Brain areas involved?**
+
+This refers to the causality question: Do certain brain structures predispose people to become gamers (nature), or does gaming reshape the brain (nurture)?
+
+* **Conclusion:** Evidence supports both. Longitudinal studies (e.g., Kühn et al.) show that gaming causes grey matter growth (plasticity) in the **striatum** and **dlPFC**. However, baseline measures of ventral striatum volume can also predict who is more likely to develop addictive gaming behaviours.
+
+### **Link between dopamine, arousal, and videogaming; FPS vs. MMORPG activation; repetition effects on autonomic system?**
+
+* **Arousal:** Gaming creates a loop of high arousal and dopamine release.  
+* **FPS (First Person Shooter):** Associated with high acute autonomic arousal (heart rate, blood pressure) and vigilance.  
+* **MMORPG:** Can lead to flow states with lower physiological arousal but high emotional investment and social reward.  
+* **Repetition:** Chronic exposure to violent gaming can lead to **desensitisation**, where the autonomic nervous system shows a blunted response to violent imagery (both in-game and real-world).
+
+### **What is the level of behavioural aggression in videogamers?**
+
+Meta-analyses show that playing violent video games causes a short-term increase in aggressive cognitions and affect (e.g., in laboratory tasks like the noise-blast test). However, the link to long-term criminal or physical violence is tenuous and highly debated. The effect is often characterised as "priming" aggression rather than creating violent individuals.
+
+### **Physiological effects of violent videogames?**
+
+Acute effects include activation of the sympathetic nervous system: **increased heart rate**, **elevated blood pressure**, and **increased skin conductance** (sweating). Long-term heavy usage is associated with physiological desensitisation to stress and violence cues.
+
+### **Brain correlates of aggression?**
+
+Aggressive behaviour is typically associated with:
+
+1. **Hyper-activity** in the **Amygdala** (emotional reactivity/threat detection).  
+2. **Hypo-activity** in the **Prefrontal Cortex (OFC/ACC)** (reduced top-down inhibition and impulse control).
+
+### **Effect of gaming on attention—benefits vs. deficits?**
+
+* **Benefits:** Action gamers (FPS) show superior **visual selective attention**, faster reaction times, improved contrast sensitivity, and better multiple-object tracking.  
+* **Deficits:** There is a correlation (though causality is complex) between high gaming frequency and **attention deficits** (impulsivity, difficulty sustaining attention in low-stimulation environments), potentially exacerbating ADHD-like symptoms.
+
+### **Effects of the digital world on memory and learning?**
+
+The digital environment promotes shallow information processing ("skimming") over deep reading. It encourages multitasking, which degrades the encoding of information into long-term memory, leading to fragmented learning.
+
+### **What is the Google effect, associated study, and implications?**
+
+* **Study:** Sparrow et al. (2011).  
+* **The Effect:** Also known as **Digital Amnesia**. People are less likely to remember information ("what") if they believe it is saved and accessible online.  
+* **Implication:** We are shifting towards **Transactive Memory** systems, where we offload data storage to digital devices.
+
+### **Difference between remembering "what" vs. "where" and conclusions?**
+
+Sparrow's study found that while recall of the information content ("what") declined, recall of the file location or search path ("where") improved. The conclusion is that the brain is adapting to efficiency: it prioritises remembering *how to find* information rather than the information itself when external storage is deemed reliable.
+
+## **Module 4: Clinical Trials and Placebo**
+
+### **What are clinical trials?**
+
+Clinical trials are rigorous research studies performed on human participants to evaluate the safety, efficacy, and dosage of medical, surgical, or behavioural interventions. They are the essential step for regulatory approval of new treatments.
+
+### **What is Naloxone and does it work only in humans?**
+
+Naloxone is an **opioid receptor antagonist**. It binds to opioid receptors without activating them, effectively blocking the binding of opioids (endogenous or exogenous).
+
+* **Effect:** It reverses opioid overdoses and, crucially, blocks **placebo analgesia** that is mediated by the opioid system. It works in both humans and animals, proving the biological (non-subjective) basis of the placebo effect.
+
+### **What is proglumide? What is pentagastrin?**
+
+* **Proglumide:** A CCK (Cholecystokinin) receptor **antagonist**. It inhibits the action of CCK. In placebo research, it is used to block the **Nocebo** effect (which is driven by CCK-mediated anxiety), effectively turning a nocebo response into a placebo-like relief.  
+* **Pentagastrin:** A synthetic peptide that stimulates CCK receptors. It is often used to experimentally induce anxiety or gut responses.
+
+### **What about cannabinoid receptors and what is rimonabant?**
+
+The endocannabinoid system (CB1/CB2 receptors) is an alternative pain-modulation pathway.
+
+* **Rimonabant:** A specific **CB1 receptor antagonist**. Benedetti et al. showed that while Naloxone blocks expectation-induced placebo, **Rimonabant** blocks **conditioning-induced** placebo analgesia (specifically after conditioning with non-opioid drugs like NSAIDs).
+
+### **What are placebo and nocebo effects, and how do blockers reveal neurochemical pathways?**
+
+* **Placebo:** A positive health outcome driven by the psychosocial context (expectation/conditioning) rather than active medication.  
+* **Nocebo:** A negative health outcome (e.g., increased pain) driven by negative expectations.  
+* **Pathways:** Pharmacological blockers dissociate the mechanisms:  
+  1. **Opioid System:** Mediates expectation-based analgesia (Blocked by Naloxone).  
+  2. **Cannabinoid System:** Mediates conditioning-based analgesia (Blocked by Rimonabant).  
+  3. **CCK System:** Mediates Nocebo hyperalgesia (Blocked by Proglumide).
+
+### **What is the role of ACC, prefrontal lobe, and dlPFC?**
+
+* **ACC (Anterior Cingulate Cortex):** Encodes the **affective** (unpleasantness) component of pain. Placebo reduces activity here (pain feels less bothersome), while Nocebo increases it.  
+* **Prefrontal Lobe:** Generates and maintains the **expectation** of relief/pain.  
+* **dlPFC:** Crucial for maintaining the context/belief. Studies using TMS to disrupt the dlPFC show that the placebo effect disappears because the brain can no longer sustain the top-down expectation of relief.
+
+### **What is the motor placebo?**
+
+This refers to the improvement in motor performance (speed, rigidity) observed in Parkinson’s disease patients when they believe they have received medication. It is mediated by the release of **endogenous dopamine** in the striatum, mimicking the effect of real levodopa.
+
+### **What is the conditioning protocol in placebo paradigms and do fatigue levels remain constant?**
+
+* **Protocol:** A neutral stimulus (placebo) is repeatedly paired with an active agent (Unconditioned Stimulus). Eventually, the neutral stimulus alone (Conditioned Stimulus) triggers the physiological response.  
+* **Fatigue:** In sports performance studies, placebo caffeine can reduce the *perception* of fatigue and increase work output, even if physiological markers of exhaustion (like lactate) remain high or constant. The brain "releases the brake" based on the belief of energy support.
+
+### **What is immunosuppression and what did Goebel et al. (2002) find? Hormonal changes?**
+
+* **Immunosuppression:** The reduction of the immune system's efficacy.  
+* **Goebel's Findings:** They used classical conditioning. Participants received a novel drink (CS) paired with Cyclosporine A (an immunosuppressant drug \- US). Later, the drink alone significantly lowered Interleukin-2 (IL-2) and Interferon-gamma levels.  
+* **Mechanism:** This interaction is mediated by the sympathetic nervous system (adrenoreceptors) and hormonal changes (epinephrine) linking the brain to the spleen.
+
+### **What did de la Fuente-Fernandez et al. (2001) show, what is raclopride, and how do expectation vs. clinical improvement differ?**
+
+* **Study:** Used PET scans on Parkinson's patients.  
+* **Raclopride:** A radiotracer that binds to dopamine D2 receptors. If the brain releases its own dopamine, it displaces the raclopride (lower signal \= more dopamine).  
+* **Findings:** Placebo administration triggered significant dopamine release.  
+  * **Ventral Striatum:** Dopamine release here correlated with the **expectation** of benefit.  
+  * **Dorsal Striatum:** Dopamine release here correlated with the actual **clinical motor improvement**.
+
+### **What is the correlation between conditioning and placebo strength/duration?**
+
+**Conditioning** produces significantly **stronger** and **longer-lasting** placebo effects compared to verbal suggestion alone. Learning mechanisms entrain the physiological response more deeply than conscious beliefs.
+
+### **Difference between pharmacodynamics and pharmacokinetics?**
+
+* **Pharmacokinetics:** The study of what the body does to the drug (Absorption, Distribution, Metabolism, Excretion \- ADME).  
+* **Pharmacodynamics:** The study of what the drug does to the body (Receptor binding, signal transduction, therapeutic effects).
+
+### **For what is the placebo administered?**
+
+1. **Clinical Trials:** As a control condition to subtract the psychological impact of treatment and isolate the specific efficacy of the molecule.  
+2. **Clinical Practice:** Occasionally used (ethically controversial) to utilise the psychobiological healing response for symptoms like pain or anxiety.
+
+### **What is natural remission and does it occur with placebo administration?**
+
+Natural remission is the spontaneous improvement of a condition over time due to the body's self-healing or the cyclical nature of the disease. It occurs *during* placebo administration. Therefore, the "Placebo Effect" observed in a trial is a sum of: **True Psychobiological Placebo Effect \+ Natural Remission \+ Regression to the Mean**.
+
+### **What is regression to the mean?**
+
+A statistical phenomenon where variables at the extreme ends of a distribution tend to move closer to the average (mean) upon subsequent measurement. Patients typically seek help when symptoms are at their peak (extreme); therefore, they are statistically likely to improve at the next visit regardless of the treatment (placebo or active).
+
+### **Difference between non-randomised vs. randomised trials and single vs. double blinding?**
+
+* **Randomised:** Participants are assigned to groups by chance to eliminate selection bias.  
+* **Non-randomised:** Assignment is based on choice or convenience (high bias).  
+* **Single Blind:** The participant does not know the treatment, but the researcher does.  
+* **Double Blind:** Neither the participant nor the researcher knows who receives which treatment. This is the gold standard to prevent observer bias.
+
+### **What are the gold standards of neuroeconomics clinical trials and what are the phases?**
+
+* **Gold Standard:** The **Randomised Controlled Trial (RCT)**, specifically double-blind and placebo-controlled.  
+* **Phases:**  
+  * **Phase I:** Safety and dosage (small healthy group).  
+  * **Phase II:** Efficacy and side effects (small patient group).  
+  * **Phase III:** Efficacy vs. Standard of Care (large populations).  
+  * **Phase IV:** Post-marketing surveillance (long-term risks).
+
+### **How does placebo effect correlate with context?**
+
+The magnitude of the placebo effect is context-dependent. It increases with:
+
+* **Invasiveness:** Injections \> Pills.  
+* **Price:** Expensive \> Cheap.  
+* **Doctor's Attitude:** Confident/Warm \> Uncertainty/Cold.  
+* **Branding/Colour:** Professional packaging \> Generic.
+
+### **What are placebo run-in trials?**
+
+A design phase where all participants receive a placebo *before* the actual trial begins. Those who show a strong improvement (high placebo responders) are excluded ("washed out") to reduce noise and make it easier to detect the difference made by the active drug in the main phase.
+
+### **What is a cross-over design and what is a balanced design?**
+
+* **Cross-over:** Each participant receives *both* treatments (A and B) sequentially, separated by a washout period. They serve as their own control.  
+* **Balanced:** The order of administration is randomised (Group 1: A then B; Group 2: B then A) to cancel out order effects (e.g., learning or fatigue).
+
+### **What is the open-hidden paradigm?**
+
+A powerful design to isolate the expectation component.
+
+* **Open:** The drug is given by a doctor with explicit verbal cues ("Here is a painkiller"). Effect \= Drug \+ Expectation.  
+* **Hidden:** The drug is delivered via an automated pump without the patient knowing. Effect \= Drug only.  
+* **Conclusion:** The difference (Open minus Hidden) represents the pure **Placebo/Expectation component**.
+
+### **Which psychological mechanisms underlie the placebo effect and what is the Bayesian perspective?**
+
+* **Mechanisms:** Expectation (anticipatory reward) and Classical Conditioning (learned associations).  
+* **Bayesian Perspective:** The brain functions as a prediction machine. Perception is not just sensory input; it is the integration of **Priors** (expectations/beliefs) with **Sensory Evidence** (likelihood). A placebo strengthens the "Prior" of relief. If the Prior is strong, the posterior perception is biased towards relief, overriding weak sensory pain signals.
+
+### **What happens when expectations are violated?**
+
+When the outcome significantly deviates from the expectation (e.g., the drug fails completely), the brain generates a **Prediction Error**. This signal updates the internal model (priors), leading to the extinction of the placebo response in future trials.
+
+### **What is classical conditioning and what are its phases?**
+
+Classical (Pavlovian) conditioning is an associative learning process where a neutral stimulus (CS) predicts a biologically potent stimulus (US).
+
+* **Acquisition:** The CS and US are paired; the association is learned.  
+* **Extinction:** The CS is presented alone; the response weakens.  
+* **Spontaneous Recovery:** After a rest period, the extinguished response briefly reappears, showing the memory was inhibited, not erased.

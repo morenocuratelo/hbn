@@ -1,0 +1,509 @@
+Neuroeconomics
+How our brain decides
+
+
+---PAGE---
+
+Summary
+• Low level decisions: Perceptual and Motion Decisions
+• Model that describe these processes (diffusion)
+• Brain regions that codify these processes
+• High level decision making processes based on:
+• Utility
+• Probability
+• Emotion
+
+---PAGE---
+
+Conceptual map
+History
+TMSLesions 
+Electrical stimulation
+fMRI
+EEG and 
+MEG
+Single-cell recordings
+• Lack of rationality
+• We are social animals
+METHODS of neuroeconomic 
+and decision making
+Allais Paradox
+Asian Disease
+Study DECISION MAKING using psychology 
+and neuroscience:
+Low level decisions: Perceptual 
+Decisions and Motion Decisions
+High level decisions
+1) Options
+2) Not random decisions
+3) Goal-directed
+Probability
+Orbitofrontal cortex →options
+Ventrolateral cortex →selfcontrol
+DLPFC →planning and organization
+aCC →learning consequences
+Inferior parietal lobe
+Value/Utility Emotions
+Memory 
+Lateral intraparietal area
+
+---PAGE---
+
+Decisions start from sensory elaboration
+We need to collect and elaborate information of 
+sensory inputs →estimate of alternatives →
+make decision
+DECISION MAKING
+Neuroeconomics is trying to 
+understand how sensory information are 
+transformed into decisions. 
+
+---PAGE---
+
+How sensory information is transformed into 
+decisions? 
+Neural activity is the basic of our decision →We need to 
+study our neuron’s activity →we can record FIRING RATE, 
+that can indicate a specific process of decision making
+DECISION MAKING
+
+
+---PAGE---
+
+FIRING RATE
+• The inferior part of the parietal lobe (IPL) is 
+known to play a very important role in 
+sensorimotor integration. 
+• Neurons in this region code goal-related motor 
+acts performed with the mouth, with the hand and 
+with the arm. 
+• It has been demonstrated that most IPL motor 
+neurons coding a specific motor act (e.g., 
+grasping) show markedly different activation 
+patterns according to the final goal of the action 
+sequence in which the act is embedded (grasping 
+for eating or grasping for placing). 
+
+
+---PAGE---
+
+FIRING RATE
+• Each line represents 
+a trial. 
+• We have 4 different 
+neurons
+• We see groups of 
+spikes at certain 
+time points 
+Figure 4. Time course of the activity of 4 neurons recorded 
+in IPL. Each one codes a specific motor act, but is active 
+only when the monkey executes the ‘‘grasping to eat’’ 
+sequence. Both rasters and histograms are aligned with 
+the moment in which the monkey touches the object. 
+Beneath the histograms a schematic representation of the 
+corresponding neuronal chain is shown.
+
+---PAGE---
+
+Decisions
+???
+???
+???
+Different decisions
+???
+We need to find simple decisions in 
+order to study the neurobiology of 
+decision making
+
+---PAGE---
+
+Decisions
+• Cognitive neuroscience has made great progress regarding the neural 
+basis of perceptual and motion decision making.
+• Models of decision making, based largely on single cell firing in 
+monkeys, assumes that neurons encode a sequential probability ratio 
+test (SPRT) (Barnard, 1946, Good, 1979, Wald, 1947).
+
+---PAGE---
+
+Example of simple decisions: Perceptual 
+decisions
+• Perceptual decision making is the process by which sensory 
+information is used to guide behavior toward the external world. 
+This involves gathering information through the senses, evaluating
+and integrating information according to the current goals and 
+internal state of the subject, and using information to produce motor 
+responses
+• The aim of the decision-maker is to categorize ambiguous (or noisy) 
+sensory information
+
+---PAGE---
+
+Perceptual decisions
+
+
+---PAGE---
+
+Perceptual decisions
+hidden Dalmatian 
+
+---PAGE---
+
+Perceptual decisions
+
+
+---PAGE---
+
+Perceptual decisions
+hidden Elephant 
+
+---PAGE---
+
+Motion perception
+
+
+---PAGE---
+
+Perceptual decisions and motion
+• Our brain is very sensitive to perceptual decisions and motion, and 
+there are specialized neurons that code these decisions.
+
+---PAGE---
+
+Perceptual 
+discrimination task
+• Authors have measured the 
+performance of monkeys and of visual 
+cortical neurons while the animals 
+performed a psychophysical task well 
+matched to the properties of the 
+neurons under study.
+• Animals were trained to report the 
+direction of motion of dots presented 
+on a screen. 
+• Some dots moved coherently while the 
+others moved at random.
+
+
+---PAGE---
+
+Perceptual 
+discrimination task
+The monkey has to switch gaze right or left, following the movement direction of the 
+majority of the dots presented on the screen.
+• If the majority of dots are moving right →animal has to switch gaze right. 
+• If the majority of dots are moving left →animal has to switch gaze left. 
+
+---PAGE---
+
+Perceptual 
+discrimination task
+• It is possible to manipulate the percentage of dots moving in a direction →we can increase the 
+difficulty of the task.
+• In the 0% motion coherence →dots are moving in random order →Monkey couldn't make it as it is a 
+very difficult perceptual decision task
+
+
+---PAGE---
+
+100 % Coherence example
+
+
+---PAGE---
+
+30 % Coherence example
+
+
+---PAGE---
+
+0 % Coherence example
+
+
+---PAGE---
+
+Perceptual 
+discrimination task
+• Motion information projects to the retina
+• Information reaches the visual cortex in 
+which there are “motion detectors”, neurons 
+that are sensitive to motion (Left and Right)
+• The activity of these neurons is proportional 
+to the amount of motion on the screen.
+• A network of neurons compares Left vs Right
+• Than we have the decision.
+
+
+---PAGE---
+
+Perceptual 
+discrimination task
+• The authors recorded single neuron activity 
+from area MT, mediotemporal, (V5), a region of 
+the extrastriate visual cortex concerned with 
+motion processing, where most neurons 
+respond optimally to visual stimuli of a 
+particular direction and speed of motion.
+• At low correlation, the monkey chose the 
+correct direction only on about half the trials 
+(random performance)
+• At high correlation, monkey’s performance was 
+nearly perfect
+• The network of neurons decides for “black”
+• The network decides by random choice 
+Low correlation
+High correlation
+
+---PAGE---
+
+Stimulation of LIP →affects this decision 
+• Aim of the study: Recent physiological studies suggest that neurons in 
+association areas may be involved in decision-making process. To test 
+this, the authors measured the effects of electrical microstimulation
+in the lateral intraparietal area (LIP) while monkeys performed a 
+reaction-time motion discrimination task with a saccadic response.
+
+
+---PAGE---
+
+Stimulation of LIP →affects this decision 
+• When monkeys indicate decisions about direction of 
+motion with an eye movement, LIP neurons increase 
+or decrease their firing as evidence accumulates in 
+favor of or against the choice associated with the 
+target in their response field (RF)
+• Neurons in LIP appear to represent the mounting 
+evidence for or against an eye movement to the 
+choice target in their RF
+
+
+---PAGE---
+
+Stimulation of LIP →affects this decision 
+Monkeys were trained to perform a two choice direction 
+discrimination task while viewing a random-dot motion stimulus
+Fig. 1. Experimental Design. A recording/stimulating 
+microelectrode was advanced into the ventral portion of area 
+LIP to identify a cluster of neurons with response fields (RFs) 
+and sustained activity during memory-guided saccades. 
+The monkey performed a direction discrimination task with 
+several levels of task difficulty randomly interleaved. The 
+monkey could respond at any time after onset of the random 
+dot motion and it indicated its decision with a saccadic eye 
+movement. One of the two choice targets was placed in the RF 
+of the LIP neurons. We applied microstimulation as shown 
+from the onset of the motion stimulus until the initiation of 
+the saccade on a random half of the trials.
+
+---PAGE---
+
+Microstimulation of this lateral 
+intraparietal area cluster caused 
+an increase in the proportion of 
+choices to the response field of the 
+stimulated neurons. 
+Choices toward the stimulated RF 
+were faster with microstimulation, 
+while choices in the opposite 
+direction were slower. 
+Fig. 2.
+Microstimulation in LIP affects both decisions and reaction times. (a, b) Effect of motion
+strength and LIP microstimulation on monkeys’ choices. The probability of a Tin choice is
+plotted as a function of motion strength. Positive and negative motion strengths correspond 
+to motion toward Tin and Tout, respectively. The sigmoid curves are fit using equation 1, 
+which characterizes the microstimulation effect as a horizontal shift of the psychometric 
+function. (c, d) Effect of motion strength and LIP microstimulation on reaction time. 
+Average RTs (± SEM) are plotted as a function of motion strength for all correct trials. 
+
+---PAGE---
+
+Diffusion models
+• The diffusion model is a model of the cognitive processes involved in 
+simple two-choice decisions.
+• The model should be applied only to relatively fast low-choice 
+decisions (mean RTs less than about 1000 to 1500 ms) and only to 
+decisions that are a single-stage decision process.
+• Diffusion models (Ratcliff, 1978) 
+explain this simple, two-choice 
+decision making process.
+
+---PAGE---
+
+Diffusion models
+• The diffusion model assumes that 
+decisions are made by a noisy 
+process that accumulates 
+information over time from a 
+starting point toward one of two 
+response criteria or boundaries.
+• The starting point is labeled z and the 
+boundaries are labeled a and 0. 
+• When one of the boundaries is 
+reached, a response is initiated. The 
+rate of accumulation of information is 
+called the drift rate (v), and it is 
+determined by the quality of the 
+information extracted from the 
+stimulus.
+
+---PAGE---
+
+Diffusion model
+MT, mediotemporal, (V5) lateral intraparietal 
+cortex (area LIP)
+DECISION based on the 
+difference between 
+evidences
+Inhibition of 
+the alternative 
+decision
+Activation of motor neurons in the 
+FEF (frontal eye field, area 8)
+6 vs 4
+
+---PAGE---
+
+Examples of these models in 2 situations that 
+differ for the amount of evidences
+• The diffusion model reacts adaptively to the levels of 
+evidences of the alternative:
+• Short decision making reaction time if the alternatives are 
+different
+• Long decision making reaction time if the alternatives are 
+similar
+• This “plasticity” is a characteristic of the diffusion 
+model.
+• Neurons use the diffusion model.
+Diffusion
+
+---PAGE---
+
+Perceptual decision making in the brain
+• When monkeys must decide whether a noisy field of dots is moving 
+upward or downward, a decision can be formed by computing the 
+difference in responses between lower-level neurons sensitive to 
+upward motion and those sensitive to downward motion
+• Is there a similar mechanism at work for more complex decisions in 
+the human brain?
+
+---PAGE---
+
+Perceptual decision 
+making in the brain
+• We can apply the diffusion model 
+to human decision making 
+processes.
+• Findings from single-cell recording 
+studies suggest that a comparison 
+of the outputs of different pools 
+of sensory neurons may be a 
+general mechanism by which 
+higher-level brain regions 
+compute perceptual decisions.
+• Task: subjects decide whether an 
+image presented is a face or a 
+house
+• To test the model of decision-making, the 
+authors added noise to the face and house 
+stimuli, which made the task arbitrarily 
+more difficult by reducing the sensory 
+evidence available to the subject
+
+
+---PAGE---
+
+Perceptual decision 
+making in the brain
+Subjects viewed images that were either easy
+(suprathreshold, Fig. 1b top) or difficult 
+(perithreshold, Fig. 1b bottom) to identify as 
+faces or houses
+30 noise50 noise70 noise
+
+
+---PAGE---
+
+Perceptual decision 
+making in the brain
+EFFECT of TASK DIFFICULTY:
+Orange easier (low noise proportion)
+• PCC →posterior cinculate cortex
+• SFS →superior frontal gyrus
+Blu harder (high noise proportion)
+• FEF →frontal eye field
+• SEF →supplementary eye field
+• IPS →intraparietal sulcus
+
+
+---PAGE---
+
+Perceptual decision 
+making in the brain
+If the activity of the house detector is larger than the activity in the face detectors →we decide that we see houses.  
+If the activity of the face detectors is larger than the activity of the house detectors →we decide that we see faces
+Authors identified voxels in the ventral temporal cortex that 
+responded more to faces than to houses, and vice versa, in 
+each subject (Fig. 2a, ‘Face’ and ‘House’). 
+
+---PAGE---
+
+Perceptual decision 
+making in the brain
+DLPFC as “computational” unit
+Activity in DLPFC is 
+proportional to the  
+difference in the 
+activity of the face 
+and the house 
+detectors
+
+
+---PAGE---
+
+• DLPFC performs the computation that provides this decision.
+• This region fulfilled the two conditions implicit in the Shadlen model 
+of perceptual decision-making:
+1. First, the region showed greater activity during those trials in which more
+sensory evidence for one of the alternative categories was available 
+(suprathreshold versus perithreshold stimuli). 
+2. Second, the activity in this region was correlated with the absolute 
+difference between the signals of face- and house-selective regions. 
+3. Finally, signal changes in this region predicted task performance
+Perceptual decision 
+making in the brain
+
+
+---PAGE---
+
+Perceptual decision making in the brain
+• Perceptual decisions are based on an 
+integrative process in which sensory 
+evidence accumulates over time until 
+an internal decision bound is 
+reached.
+• The authors used repetitive 
+transcranial magnetic stimulation 
+(rTMS) to provide causal support for 
+the role of the dorsolateral 
+prefrontal cortex (DLPFC) in this 
+integrative process
+Task: perceptual categorization task 
+(presented noisy pictures of faces and cars and 
+subjects had to decide)
+
+
+---PAGE---
+
+Perceptual decision making in the brain
+rTMS
+suppression 
+of DLPFC
+
+---PAGE---
+
+• Disruption of the left DLPFC with low frequency rTMS
+reduced accuracy and increased response times relative to a 
+sham condition.
+• These results provide causal evidence linking the DLPFC to 
+the mechanism of evidence accumulation during perceptual 
+decision making.
+Perceptual decision making in the brain

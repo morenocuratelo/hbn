@@ -1,0 +1,1655 @@
+Placebo, nocebo and 
+contextual factors:
+history, research and clinical practice
+
+---PAGE---
+
+PLACEBO in modern science: 3 contexts
+• In clinical trials → the aim is to REDUCE the placebo effect
+• In scientific research → the aim is to UNDERSTAND how the placebo effect works
+• In clinical practice →the aim is to INCREASE the placebo effect
+
+
+---PAGE---
+
+Finniss et al. Lancet 2010;375:686-95
+Pain
+Motor performance
+Parkinson's disease
+Alzheimer's disease
+Cardiovascular system
+Respiratory system
+Gastrointestinal System
+Immune system
+Endocrine system
+Depression
+Anxiety
+PLACEBO
+Under what conditions does it work?
+?
+
+---PAGE---
+
+ISCHEMIC PAIN
+DAY1   DAY2    DAY3   DAY4    DAY5
+15
+20
+25
+30
+MOR MOR PLA
++
+NAL
+Pain tolerance
+(minutes)
+NALOXONE
+ antagonist
+OPIOIDS
+Placebo analgesia: Study on 
+Ischemic Pain 
+(Amanzio & Benedetti J Neurosci 1999; 19:484-94
+Benedetti et al. J Neurosci  2007; 27:11934-9)
+• Day 1 (baseline): no treatment → 
+normal pain tolerance 
+• Day 2 and 3: morphine → augmented 
+pain tolerance 
+• Day 4: Told morphine, Given placebo + 
+naloxone (opiod antagonist) → pain 
+tolerance returns to baseline 
+What we observe is that participants no 
+longer respond to the placebo, and their 
+pain increases (similar to day one).
+→ HERE, PLACEBO EFFECT IS 
+BLOCKED BY NALOXONE
+One of the most extensively 
+studied systems in placebo 
+research is the pain system.
+
+---PAGE---
+
+HOT PLATE TEST
+Guo et al. (2010) J. Psychopharmacol. 24: 1561-1567
+Drug  (US) + blue light (CS)
+OPIOIDS
+paw
+withdrawal
+latency
+(seconds)
+DAY1   DAY2  DAY3 DAY4 DAY5
+15
+30
+MOR MOR PLAMOR MOR
++
+NAL
+45
+MICE
+Placebo analgesia: Animal Study (Mice) 
+• Mice reveived morphine paired with blue light 
+(conditioning) 
+• On a hot plate test, pain tolerance increases 
+after morphine
+• With placebo + blue light →pain tolerance 
+increases vs baseline (less than morphine) 
+• With naloxone → placebo response is 
+blocked
+→ Blockade of endogenous opioid abolishes the 
+placbeo effect 
+→ Could Placebo analgesia be mediated by 
+endogenous opioid mechanisms? 
+
+---PAGE---
+
+Benedetti et al. Lancet, 1995; 346:1231. Benedetti et al. Psychopharmacol 2011; 213:791-7
+PENTAGASTRIN (CCK agonist) 
+MOR MORPLA + PENTAGASTRIN
+15
+20
+25
+30
+DAY1   DAY2   DAY3   DAY4   DAY5
+Pain tolerance
+(minutes)
+PROGLUMIDE (CCK antagonist)
+CCK  (ANTI-OPIOIDS)
+3
+Proglumide
+Placebo
+Control
+time
+10
+9
+8
+7
+6
+5
+4
+5      10     15     20     25     30     35     40     45 
+Intensity
+PLACEBO ANALGESIA AND ENDOGENOUS OPIOIDS: CCK MODULATION
+Proglumide (CCK antagonist): 
+• CCK normally inhibits endogenous 
+opioids
+• Blocking CCK → enhances endogenous 
+opioid production and availability
+• Result: stronger placebo effect due to 
+more free opioid receptors 
+Pentagastrin (CCK agonist): 
+• Mimics naloxone effect → blocks 
+placebo effect
+• Activates CCK → inhibits 
+endogenous opiodis → opioid 
+receptors unavailable 
+
+---PAGE---
+
+Amanzio & Benedetti J Neurosci 1999;19:484-94 Benedetti et al. Nature Med 2011;17:12828-30
+DAY1    DAY2    DAY3    DAY4    DAY5
+10
+15
+20
+KET KET PLA + RIM
+Pain tolerance
+(minutes)
+CANNABINOIDS
+25
+20
++
+NAL
+DAY1   DAY2   DAY3  DAY4   DAY5
+15
+Pain tolerance
+(minutes)
+KET KET PLA
+Activation of 
+CB1 receptor 
+→ < pain
+PLACEBO ANALGESIA: NON-OPIOID ANALGESICS AND CB1 SYSTEM
+Rimonabant
+CB1 cannabinoid
+receptor antagonist
+Ketolorac (non-opioid analgesic): 
+• Reduces pain via CB1 cannabinoid 
+system
+• Preconditioning with ket → increases 
+pain tolerance 
+• Placebo + naloxone → placebo effect 
+still occurs, naloxone has no effect
+→ The placebo effect here is not opioid-
+mediated. 
+Rimonabant (CB1 antagonist) 
+• Preconditioning with ketolorac→ 
+increases pain tolerance 
+• Placebo + Rimonabant → blocks 
+placebo analgesia 
+→ placebo effect is neurtotrasmitter
+specific
+
+---PAGE---
+
+Placebo analgesia depends on the 
+neurotransmitter system engaged during 
+preconditioning
+• If preconditioned with opioids → blocked with naloxone 
+• If preconditioned with cannabinoids → blocked by rimonabant 
+→ Past experiences, expectations, and psychosocial context can 
+trigger analgesia via the “drug memory” mechanism.
+→ The brain “remembers” drugs that produced analgesia previously. 
+When a person expects the drug, endogenous opioids or 
+cannabinoids are released, bind to their specific receptors, and 
+induce analgesia even without the actual drug.
+→ In other words, placebo analgesia depends both on the drug itself 
+and on the memory of its effects.
+
+---PAGE---
+
+Psychosocial context
+Expectation
+Previous experiences 
+Benedetti et al. (2011) Nature Med, 17: 1228-1230
+CB1
+cannabinoid
+receptor
+ opioid
+receptor
+Analgesia
+Previous exposure
+to opioids () 
+Previous exposure
+to NSAIDs (CB1) 
+Memory
+ON
+Memory
+ON
+and
+ and
+
+
+---PAGE---
+
+Amanzio & Benedetti J Neurosci 1999 
+Benedetti et al. J Neurosci  2007
+Benedetti et al. Lancet, 1995
+Benedetti et al. Psychopharmacol, 2011
+Benedetti et al. Nature Med 2011
+Kessner et al., Jama, 2013
+CCK
+SYSTEM
+Nocebo
+HYPERALGESIA
+Block by anti-CCK 
+drugs (e.g. proglumide)
+Placebo
+OPIOID 
+SYSTEM
+Oppioid drugs 
+(e.g. morphine)
+ANALGESIA
+- Block by anti-
+oppioid drugs (e.g. 
+naloxone) 
+- Block by CCK 
+agonist
+(e.g. pentagastrine)
+Increased by 
+anti-CCK drugs 
+(e.g. 
+proglumide)
+Placebo
+CANNABINOID
+SYSTEM
+Cannabinoid drugs 
+(e.g. Ketorolac)
+ANALGESIA
+- Block by anti-
+cannabinoid drugs 
+(e.g. rimonabant)
+OSSITOCINA  E VASOPRESSINA
+Placebo
+ANALGESIA
+
+---PAGE---
+
+Placebo effect and PAIN
+• Behavioral Studies
+• Pharmacological studies
+• Neuroimaging studies
+- PET-fMRI
+-EEG
+
+---PAGE---
+
+Wager et al. 2004 Science 303: 1162-1167.
+Zubieta et al. 2005 J. Neurosci. 25: 7754 –7762.Watson et al. 2009 Pain 145: 24-30.
+DLPFC
+Petrovic et al. 2002 Science 295: 1737-1740.
+ACC
+Opioid-induced analgesia and placebo analgesia activate the same 
+brain areas
+PET  AND  fMRI STUDIES
+Increased activity in the 
+Anterior cingulate cortex 
+both in opioid analgesia 
+and in placebo analgesia 
+Pre-frontal 
+mechanisms trigger 
+opioid release in the 
+midbrain
+Identical areas were 
+modulated during 
+anticipation in the 
+placebo analgesia phase 
+and in the placebo 
+conditiong phase
+(Dorsolateral prefrontal 
+cortex) 
+
+---PAGE---
+
+Role of DLPFC in 
+Placebo Analgesia 
+Key Points:
+• Maintains the “placebo effect”: helps sustain the expectation of 
+analgesia.
+• Reduces pain perception: even when the actual pain intensity is the 
+same as baseline.
+• Consolidates priors: triggers endogenous analgesic mechanisms 
+based on prior drug experience.
+• Sensory modulation: decreases incoming pain signals when no 
+active drug is administered.
+Implication:
+In placebo analgesia studies, greater DLPFC activity indicates stronger 
+cognitive control over pain perception.
+
+---PAGE---
+
+Amanzio, Benedetti et al (2011) Hum Brain Mapp
+Placebo - Expectation Pain perception (pain matrix)
+Activation
+Inhibition
+DLPFC
+rACC
+(Rostral Cingulate 
+Anterior Cortex)
+PAG
+(Periaqueductal 
+Gray)
+Putamen
+Insula
+Caudate
+Thalamus
+pCC
+(Posterior cingulate 
+Cortex)
+
+---PAGE---
+
+Krummenacher et al. 2010 Pain 148: 368-374
+If the prefrontal area (DLPFC) is inactivated, 
+placebo effect is abolished
+Analgesia 
+expectation
+Analgesia 
+expectation
+
+---PAGE---
+
+Stein et al (2012) Pain 153: 2210-2217
+The matter integrity
+by fractional anisotropy
+in normal subjects
+Lower frontal integrity corresponds to a lower 
+placebo response
+
+---PAGE---
+
+All participants received remifentanil, at a fixed dose. 
+The study aimed to test how expectations modulate the effect of a real drug: 
+1. No expectancy: patients received remifentanil without knowing its effect
+2. Positive expectancy: participants received remifentanil and, therefore they 
+expected pain relief
+3. Negative expectancy: participants received remifentanil but thought they were not 
+receiving it anymore 
+Bingel et al. 2011 Science Trans Med, 3: 70ra14
+Gollub  and Kong, 2011 Science Trans Med Com
+THE EFFECT OF TREATMENT EXPECTATION ON DRUG EFFICACY
+
+---PAGE---
+
+Bingel et al. 2011 Science Trans Med, 3: 70ra14
+Gollub  and Kong, 2011 Science Trans Med Com
+OPEN ADMINISTRATION: 
+• Expecting pain relief enhances 
+opioid analgesia 
+• Brain activity increases in: 
+• Dorsolateral prefrontal 
+cortex (DLPFC) 
+• ACC (anterior cingulate cortex) 
+• Striatum (Caudate, putamen) 
+• Frontal operculum
+HIDDEN ADMINISTRATION: 
+• Expecting more pain reduces opioid 
+analgesia
+• Brain activity increases in: 
+• Pain network: S1, MCC (mid 
+cingulate cortex), insula, 
+thalamus 
+• Hippocampus, amygdala, 
+MPFC, cerebellum
+Hippocampus
+
+
+---PAGE---
+
+Placebo effect and PAIN
+• Behavioral Studies
+• Pharmacological studies
+• Neuroimaging studies
+- PET-fMRI
+- EEG
+
+---PAGE---
+
+Placebo and Event Related Potentials 
+(ERPs)
+• STUDY 1: LEP
+(Laser-Evoked 
+Potentials)
+• STUDY 2: CNV
+(Contingent Negative 
+Variation)
+EEG
+early nociceptive 
+processes
+anticipation phase 
+during pain-task
+
+
+---PAGE---
+
+Colloca et al. Pain 139 (2009) 306-314
+Wager et al. Brain, Behav Imm 20 (2006) 219-230
+Watson et al Pain 126 (2006) 115-122
+DECREASE IN N2-P2 
+complex during placebo 
+analgesia
+The N2–P2 complex is a component of laser-
+evoked potentials (LEPs) that reflects cortical 
+processing of painful stimuli, particularly the 
+conscious perception and evaluation of pain.
+In this study, both verbal suggestion and 
+conditioning altered the N2–P2 complex, 
+indicating a change in how the brain processes 
+pain signals.
+However, only conditioning led to a reduction 
+in perceived pain, suggesting that learning 
+through prior positive experience (rather than 
+expectation alone) modulates pain both 
+neurophysiologically and subjectively.
+
+---PAGE---
+
+?
+?
+ACQUISITION
++
+̶
+EVALUATION
+LESS PAIN
+MORE PAIN
+< INTENSITY
+> INTENSITY +
+̶
+= INTENSITY
+COND + NO VER 
+groupCOND + VER group
+Carlino et al., EJP, 2015
+CONDITIONED ANALGESIA AND THE ROLE OF VERBAL 
+INFORMATION
+Two conditioning blocks: one cue 
+paired with increased pain and the 
+other with decreased pain
+ 
+• VER group receives information 
+about the meaning of the cue,
+• noVER group does not 
+Participants 
+learn the 
+association 
+between visual 
+cues and pain 
+intensity. 
+• Purpose: assess whether the 
+association learned during 
+acquisition affects pain perception.
+• Measures: pain ratings (0–10)
+and LEP N2–P2 amplitudes.
+All cues are 
+presented 
+with the 
+same pain 
+intensity, 
+regardless of 
+the cue.
+
+---PAGE---
+
+*
++ or −
+Fixation (4000ms)
+Cue(700ms)
+Mask →FIRE (300ms)
+Rating(6000ms)
+Rating
+C 1
++
+P=0.006
+6
+5
+4
+3
+2
+1
+0
+C 2
++
+T
++
+C 1
+−
+C 2
+−
+T
+−
+Cond 1
+Cond 2
+Test
+Expectation CONDITIONING
+CONSCIOUS UNCONSCIOUS 
+Carlino E, EJP, 2015
+8
+ 
+  4
+  0
+- 4
+- 8
+N2-P2 (µV)
+Time(s)
+0        0.2        0.4         0.6   
+EFFECT
+In the evocation session, only the VER group 
+reported a decrease in pain rating and LEP 
+amplitude when the cues were presented, 
+suggesting that the visual–analgesic association 
+does not occur without explicit verbal 
+information.
+
+---PAGE---
+
+*
++ or −
+Fixation (4000ms)
+Cue(700 ms)
+Mask →FIRE (300ms)
+Rating(6000ms)
+Rating
+NO EFFECT
+P = 0.7
+C 1
++
+6
+5
+4
+3
+2
+1
+0
+C 2
++
+T
++
+C 1
+−
+C 2
+−
+T
+−
+Expectation CONDITIONING
+CONSCIOUS UNCONSCIOUS 
+?
+C 1
+C 2
+Test
+Carlino E, EJP , 2015
+8
+ 
+  4
+  0
+- 4
+- 8
+N2-P2 (µV)
+Time(s)
+0        0.2        0.4         0.6   
+
+---PAGE---
+
+Another study investigates how expectations modulate pain, underlying placebo 
+hypoalgesia and nocebo hyperalgesia. 
+It is novel in using the Contingent Negative Variation (CNV), an electrophysiological 
+marker of cognitive anticipation and motor preparation, to separate sensory and 
+motor components of pain.
+• Experiment 1 (conditioning): 
+– Acquisition: cues paired with non-painful (green) or painful (red) stimuli.
+– Test: stimulus intensity kept constant to isolate expectation effects.
+• Experiment 2 (expectation only):
+– No conditioning; expectations induced by cues alone.
+• Measures:
+– CNV: early (cognitive anticipation) and late (motor preparation) components.
+– Pain ratings: subjective perception.
+– Reaction time: time to stop painful stimulation.
+
+---PAGE---
+
+Reaction time recording
+Electrical 
+shocks
+EEG recording
+Cue’s 
+presentation
+ACQUISITION
+EVOCATION
+COND group
+warning
+imperative
+Piedimonte et al., 2017
+Green cue → expected pain reduction (placebo) 
+Red cue → expected pain increase (nocebo) 
+Measures: 
+• RT: reaction time to stop the stimulus 
+(if slower → no unconscious expectation of painful stimulus, if 
+faster → unconscious expectation of painful stimulus) 
+• Pain Rating: Conscious, anticipatory system
+• EEG recording 
+
+---PAGE---
+
+Se rosso mi aspetto ‘preparazione’ maggiore per stoppare lo stimolo (onda più gonfia)
+Se stimoli rosso e verde stessa intensità → se ti ho condizionato dopo il rosso ti prepari a schivare 
+come fosse intenso come prima. 
+A livello comportamentale i rossi sono più alti dei verdi, invece i tempi di reazione rimangono identici 
+tra rosso e verde. 
+Come se il mio corpo avesse capito bene che gli stimoli sono uguali,ma la mia coscienza no, anche se 
+in realtà l’ho evitato come fosse debole 
+Invece la CNV divide due aspetti diversi → solo la EARLY CNV predice il comportamentale. Invece  a 
+livello di preparazione motoria (LATE CNV) è identico. 
+La parte automatica del motorio è molto più difficile da influenzare rispetto alla parte consapevole. 
+Pain rating : increased with red cue → 
+painful stimulus
+Reaction time → decreased with red cue 
+CNV → red cue → bigger effect → more 
+preparation to avoid the stimulus 
+Pain rating: increased with red cue → 
+neutral stimulus 
+Reaction time → red cue = green cue 
+CNV → red cue → bigger effect only in 
+the early one
+The conscious, anticipatory system can be influenced by conditioning, 
+whereas the automatic motor system is much harder to modulate
+
+---PAGE---
+
+Finniss et al. Lancet 2010;375:686-95
+Pain
+Motor performance
+Parkinson's disease
+Alzheimer's disease
+Cardiovascular system
+Respiratory system
+Gastrointestinal System 
+Immune system
+Endocrine system
+Depression
+Anxiety
+PLACEBO
+Under what conditions does it work?
+?
+
+---PAGE---
+
+MOTOR 
+SYSTEM
+Placebo effect
+(caffeine drink)
+Nocebo effect
+(sham stimulation)
+
+
+---PAGE---
+
+PROTOCOL 1:
+Expectation 
+alone
+SESSION 1
+Baseline
+SESSION 2
+Evaluation
+PROTOCOL 2:
+Expectation + 
+conditioning
+SESSION 1
+Baseline
+SESSION 4
+Evaluation
+SESSION 2 and SESSION 3
+Conditioning + Expectation
+load to lift
+Subjects performed different leg extension 
+sessions, to exhaustion, in different days.
+INDEXES: - work performed
+- fatigue
+PLACEBO NOCEBO
+Pollo et al., 2008
+
+---PAGE---
+
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+1 2
+Work (kJ)
+sessions
+control
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+1 2
+Work (kJ)
+sessions
+placebo
+A
+B
+p = 0.029
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15
+RPE
+extensions
+session 1
+session 2
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15
+RPE
+extensions
+session 1
+session 2
+More work done and 
+less fatigue perceived 
+in the second session 
+compared to the first one 
+
+---PAGE---
+
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+1 2 3 4
+Work (kJ)
+sessions
+control
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+1 2 3 4
+Work (kJ)
+sessions
+placebo
+p = 0.011
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15
+RPE
+extensions
+session 1 (baseline)
+session 2 (conditioning)
+session 3 (conditioning)
+session 4 (placebo)
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15
+RPE
+extensions
+session 1 (baseline)
+session 2 (conditioning)
+session 3 (conditioning)
+session 4 (control)
+More work done and 
+less fatigue perceived 
+in the fourth session 
+compared to the first one 
+
+---PAGE---
+
+Expectation protocol → patients showed partial 
+improvements: they could do more repetitions, but their fatigue 
+level did not change.
+Conditioning protocol → there was a clear improvement by 
+session 4 (final phase), both in subjective (RPE) and 
+objective (rep) measures
+CONCLUSION
+• The placebo effect acts on the motor system in "physiological" 
+conditions
+• The conditioning protocol induces greater effects than just 
+expectation
+
+---PAGE---
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+S-1 S-2
+Work (Kj)
+Sessions
+Control
+1
+2
+3
+4
+5
+6
+7
+8
+9
+S-1 S-2
+Work (Kj)
+Sessions
+Nocebo
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15 18 21
+RPE
+Extentions
+Control
+Baseline
+Evaluation
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15 18 21
+RPE
+Extentions
+Nocebo
+Baseline
+Evaluation
+Pollo et al., 2010
+Improvement
+in the Control Group
+Worsening
+in the Nocebo Group: 
+- Less work (rep) 
+- Higher RPE
+
+---PAGE---
+
+0
+2
+4
+6
+8
+1 2 3 4
+Work (KJ)
+Sessions
+Control
+0
+2
+4
+6
+8
+1 2 3 4
+Work (KJ)
+Sessions
+Nocebo
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12 15
+RPE
+Extensions
+Control
+Baseline
+Conditioning + Expectation 1
+Conditioning + Expectation 2
+Evaluation
+6
+8
+10
+12
+14
+16
+18
+20
+0 3 6 9 12
+RPE
+Extensions
+Nocebo
+Baseline
+Conditioning + expectation 1
+Conditioning + Expectation 2
+Evaluation
+Improvement
+in the CONTROL 
+GROUP
+No 
+improvement
+in the NOCEBO 
+GROUP
+
+---PAGE---
+
+CONCLUSIONS
+• The nocebo effect acts on the motor system in 
+"physiological" conditions.
+• Expectation alone produces a worsening of 
+performance even without preconditioning
+
+---PAGE---
+
+First series
+(10-min, 60 movements)  
+Second series
+(10-min, 60 movements)  
+Third series
+(10-min, 60 movements)  
+CONTROL GROUP
+PLACEBO  GROUP
+A)
+B)
+administration         → expected effect →“in ten minutes it will 
+be effective”
+grip handleload
+First series
+(10-min, 60 movements)  
+Second series
+(10-min, 60 movements)  
+Third series
+(10-min, 60 movements)  
+Piedimonte et al., 2015, European Journal of Neuroscience
+
+
+---PAGE---
+
+0,00
+2,00
+4,00
+6,00
+8,00
+10,00
+CONTROL GROUP                                PLACEBO GROUP              
+***
+FIRST               SECOND               THIRD                         FIRST                SECOND              THIRD
+SERIES               SERIES SERIES SERIES SERIES SERIES
+expected effect
+***
+**
+*
+*** ***
+***
+FIG. 2
+RPE
+3° series 
+placebo less fatigue vs control
+
+---PAGE---
+
+C3 Cz C4 
+CONTROL  GROUPPLACEBO  GROUP
+A)
+B)
+FIG. 3 AREA (uVs) Amp  (uV)
+**
+***
+**
+***
+**
+**
+ **
+***
+**
+First series Second series Third series
+-2000    -1500   - 1000   -500         0 
+Time windows (ms)
+4
+3
+2
+1
+0
+- 12
+- 6
+0
+-2000    -1500   - 1000   -500        0 
+Time windows (ms)
+4
+3
+2
+1
+0
+- 12
+- 6
+0
+-2000    -1500   - 1000   -500         0 
+Time windows (ms)
+4
+3
+2
+1
+0
+- 12
+- 6
+0
+-2000    -1500   - 1000   -500         0 
+Time windows (ms)
+4
+3
+2
+1
+0
+- 12
+- 6
+0
+-2000    -1500   - 1000   -500         0 
+Time windows (ms)
+4
+3
+2
+1
+0
+- 12
+- 6
+0
+-2000    -1500   - 1000   -500         0 
+Time windows (ms)
+4
+3
+2
+1
+0
+- 12
+- 6
+0
+AREA (uVs) Amp  (uV)
+Fatigue increases across the series, peaking in the third 
+series
+Fatigue levels remain constant; third series show 
+no increase 
+= no increase in fatigue perceived even on a 
+physiological scale
+
+---PAGE---
+
+Conclusions
+Inhibitory systemFacilitatory system
+•Motor cortex
+•Orbitofrontal cortex
+•Prefrontal cortex
+•Anterior Cingulate cortex
+•Limbic system
+•Thalamus
+•Basal ganglia
+•Motor cortex
+•Anterior Cingulate cortex
+•Medial and posterior insular 
+cortex
+•Secondary somatosensory cortex
+•Thalamus
+•Spinal cord
+- Decrease of 
+motor output 
+- Increase of 
+fatigue
+- Increase of 
+motor output 
+- Decrease of 
+fatigue
+Motor outcomes:
+Placebos and nocebos
+PERIPHERAL 
+SIGNALS
+CENTRAL   
+MECHANISMS
+
+
+---PAGE---
+
+Finniss et al. Lancet 2010;375:686-95
+Pain
+Motor performance
+Parkinson's disease
+Alzheimer's disease
+Cardiovascular system
+Respiratory system
+Gastrointestinal System 
+Immune system
+Endocrine system
+Depression
+Anxiety
+PLACEBO
+Under what conditions does it work?
+?
+
+---PAGE---
+
+Goebel et al. (2002) FASEB J. 16: 1869-1873.
+ACQUISITION EVOCATION
+IMMUNOSUPPRESSION
+• Participants received a novel-
+tasting beverage paired with the 
+immunosuppressive drug 
+Cyclosporine A.
+• Cyclosporine A normally reduces 
+interleukins and interferon-gamma 
+levels.
+• After administration, in the drug 
+group, a clear decrease in 
+interleukins and interferon-
+gamma was observed compared 
+to baseline.
+• Later, participants were given only 
+the flavored beverage, without any 
+drug
+• Despite the absence of 
+Cyclosporine A, researchers still 
+observed a significant reduction in 
+interleukin and interferon-gamma 
+levels, though smaller than in the 
+drug phase.
+• This demonstrated a conditioned 
+immunosuppressive response
+The immune system can be influenced by associative learning, 
+similarly to behavioral conditioning.
+
+---PAGE---
+
+Goebel et al. (2002) FASEB J. 16: 1869-1873.
+Strawberry 
+milk
+Cyclosporin A
+(immunosuppressant:
+reduction of interleukin-2 and interferon)
+Placebo
+Strawberry 
+milk
+CONDITIONED GROUP
+ACQUISITION EVOCATION
+Control group
+Conditioned group
+Drug group
+IMMUNOSUPPRESSION
+
+---PAGE---
+
+Water group (water + placebo):
+- decreased the subjective symptoms
+- attenuated the effects of the skin prick 
+test for histamine
+Placebo group (novel-tasting drink + 
+placebo):
+- decreased the subjective symptoms
+- attenuated the effects of the skin prick 
+test for histamine
+- Reduced basophil activation 
+1  2  3  4  5
+Desloratadine + Drink
+CONDITIONED ALLERGIC REACTION
+Goebel et al. (2008) Psychother Psychosom 77(4): 227-34.
+ACQUISITION EVOCATION
+novel-tasting drink
+a standard dose of the H1
+receptor antagonist, 
+desloratadine
+(antihistaminergic drug)→
+Basophilic activation 
+reduction
+Drug group (water + real drug):
+= placebo group
+ALLERGIC REACTIONS
+
+---PAGE---
+
+HORMONAL CHANGES
+• Plasma GH 
+concentration
+• Expectancy does not 
+vary GH 
+concentration
+• Placebo mimics the 
+effect of 
+sumatriptan (> GH)
+Benedetti et al., 2003
+
+---PAGE---
+
+HORMONAL CHANGES
+• Plasma cortisol 
+concentration
+• Expectancy does not 
+vary cortisol 
+concentration
+• Placebo mimics the 
+effect of sumatriptan 
+(< cortisol)
+Benedetti et al., 2003
+
+
+---PAGE---
+
+Finniss et al. Lancet 2010;375:686-95
+Pain
+Motor performance
+Parkinson's disease
+Alzheimer's disease
+Cardiovascular system
+Respiratory system
+Gastrointestinal System 
+Immune system
+Endocrine system
+Depression
+Anxiety
+PLACEBO
+Under what conditions does it work?
+?
+
+---PAGE---
+
+Parkinson’s Disease (PD)
+Bradykinesia
+Tremor at 
+rest
+Rigidity
+Postural instability
+Freezing
+Symptoms due to dopaminergic 
+impairment at the level of the 
+substance nigra and striatum 
+(putamen and caudate):
+- From initial nigrostriatal 
+degeneration
+- Possible degeneration of 
+several dopaminergic circuits 
+(mesocortical, mesolimbic 
+tuberoinfundibular)
+
+---PAGE---
+
+PD Treatments
+• Drug treatment: L-Dopa
+Levodopa, a dopamine precursor, is converted into dopamine by the enzyme dopa-
+decarboxylase in dopaminergic neurons. The main problem is that only a small 
+fraction (~5–10%) actually reaches the target neurons in the brain that control motor 
+symptoms. The rest is converted into dopamine elsewhere, where it is not needed, 
+causing side effects such as nausea, low blood pressure, heart issues, and involuntary 
+movements.
+To reduce these side effects, levodopa is often combined with peripheral dopa-
+decarboxylase inhibitors (like carbidopa or benserazide), which block dopamine 
+formation outside the brain and increase the amount reaching the neurons.
+• Surgical Treatment: DBS
+Deep Brain Stimulation (DBS) is a major surgical treatment for Parkinson’s. The 
+patient is awake, with the head fixed, while two microelectrodes are inserted through 
+small holes to stimulate the subthalamic nucleus, a key area involved in the disease. 
+Being awake allows doctors to check in real time if the electrodes cause any problems.
+
+---PAGE---
+
+Placebo effect and PD
+• Clinical trials
+• Behavioral Studies
+• Neuroimaging studies
+– PET
+– Single neuron recordings
+– EEG
+
+---PAGE---
+
+Improvements in RCTs
+• Improvement in parkinsonian 
+symptoms in the placebo 
+group in several clinical trials 
+(pharmacological and 
+surgigical)
+Goetz et al., (2002, 2008)
+• Pharmacological: placebo vs 
+sarizotan comparison 
+(serotonergic action) on 
+dyskinesias (involuntary 
+movements)
+• Surgical: Comparison of 
+patients undergoing real or 
+simulated intra-striatal 
+transplants of pig fetal ventral 
+mesencephalic tissue
+As with pain, in many trials the natural history group is missing: the improvement can be 
+due to both the placebo effect and other factors (regression to the mean, spontaneous 
+remission, etc.)
+
+---PAGE---
+
+• Surgical trial (McRae et al., 2004):
+• No difference between real intervention and placebo 
+("effectiveness of transplantation of human embryonic 
+dopamine neurons")
+• Difference based on patient perception:
+– Patients who thought they had undergone the real surgery had 
+a benefit up to 12 months after the surgery
+Example of surgical trial
+
+---PAGE---
+
+• In certain clinical trials, such as those testing surgical 
+treatments like embryonic dopaminergic neuron 
+transplants, the observed improvement often came from 
+the patient’s belief that they were in the treatment group, 
+rather than the treatment itself. 
+• There was no real difference between the surgical trial and 
+control groups. 
+• The clinical benefit typically lasted about a year. 
+This shows that perception of allocation strongly influences 
+outcomes. 
+Even when blinding is properly maintained, patients may form 
+opinions about their treatment, which can affect the 
+measured efficacy.
+
+---PAGE---
+
+Improvement in behavioral studies
+• The expectation of clinical improvement plays a crucial role
+• Typical experimental situation: placebo is administered 
+giving the patient positive expectations of improvement
+• Bradykinesia is the symptom more sensitive to positive 
+expectations, compared to tremor and stiffness
+
+---PAGE---
+
+Patients were divided into two 
+verbal suggestion groups:
+• “Bad” condition: told they 
+would perform poorly
+• “Good” condition: told they 
+would perform well
+They were also told that DBS 
+would not affect their 
+performance. 
+Results showed that verbal 
+instructions alone could worsen 
+or improve motor performance.
+The study also tested 
+conditioning effects: if patients 
+were conditioned, their 
+movement speed improved even 
+when later given a placebo 
+instead of apomorphine. 
+This shows that conditioned 
+placebo effects are stronger and 
+longer-lasting than simple 
+expectation alone.
+Improvement in behavioral studies
+Pollo et al., 2002; Benedetti et al., 2003
+
+---PAGE---
+
+Pollo et al., 2002; Benedetti et al., 2003
+Improvement in behavioral studies
+
+---PAGE---
+
+Improvement in PET studies
+• First PET study using raclopride
+• Raclopride: radiotracer that binds to D2 
+and D3, competing with endogenous 
+dopamine
+• PD patients: knew they could receive 
+placebo or apomorphine
+De la Fuente-Fernandez et al.  Science  2001
+
+---PAGE---
+
+De la Fuente-Fernandez et al.  Science  2001
+200% increase in
+dopamine =
+One dose of
+amphetamine
+Release of 
+endogenous 
+dopamine at the 
+level of the striatum 
+in PD.
+Improvement in PET studies
+Raclopride binding decreased because endogenous 
+dopamine increased, showing that placebo induced 
+dopamine release in the striatum
+Raclopride binds normally, 
+highlighting dopaminergic sites.
+
+---PAGE---
+
+• All patients showed a dopamine release BUT 
+only half also reported clinical improvement
+• These patients (clinically improved): 
+increased release of dopamine at the level of 
+the dorsal striatum.
+De la Fuente-Fernandez et al.  Science  2001
+Improvement in PET studies
+
+---PAGE---
+
+Improvement in PET studies
+• Clinical improvement associated with →
+dorsal striatum (caudate and putamen)
+• Expectation of beneficial associated with→
+ventral striatum (accumbens)
+
+---PAGE---
+
+• Double-blind study
+• During DBS surgery
+• Placebo administered in the operating room 
+after several days of preconditioning with 
+apomorphine
+Improvements in single-neuron 
+studies
+Benedetti,   Nature Neurosci  2004
+
+
+---PAGE---
+
+Basal Recording
+of the subthalamic nucleus
+Experimental registration
+of the subthalamic nucleus
+placebo
+Improvements in single-neuron 
+studies
+PLACEBO EFFECT
+• Reduction of wrist rigidity between pre- and post-treatment
+• Increase in the firing rate of the thalamus (in the inhibitory circuit 
+of the basal ganglia: the thalamus inhibits the firing rate of the 
+substantia nigra, preventing excessive activity in the subthalamic 
+nucleus and thus avoiding symptoms)
+• Reduction in the firing rate of the subthalamic nucleus
+• Reduction in the firing rate of the substantia nigra
+
+---PAGE---
+
+• Extension of previous study
+• During DBS surgery
+• Analysis of thalamic nuclei (VA, anterior 
+ventral and anterior ventral lateral VLA) and 
+substance nigra
+Improvements in single-neuron 
+studies
+Benedetti,   J Physiol  2009
+
+
+---PAGE---
+
+Placebo responder: reduction of 
+firing rate in the STN associated with 
+reduction in the substance nigra and 
+increase in the thalamic nuclei
+Placebo non-responder
++ +
+- -
++ +
+increasedecrease
+pre –post 
+pre
+Neuronal firing rate (Hz)
+STN
+SNr
+Th
+STN
+
+---PAGE---
+
+• N = 42 PD patients (DBS)
+• 6 experimental groups
+• OUTCOMES:
+– Single Neuron Recording (Thalamus)
+– Wrist rigidity
+Benedetti et al., J Physiol, 2016
+Improvements in single-neuron 
+studies
+
+---PAGE---
+
+This study showed that thalamic activity changes
+observed during surgery persisted into the next day and 
+depended on how many apomorphine preconditioning 
+sessions patients had received.
+•Control group: no intervention or placebo → no changes in thalamic 
+activity or rigidity.
+•Placebo 0: only expectation of treatment, no preconditioning → no 
+significant effects.
+•Placebo 1–4: received 1–4 apomorphine preconditioning sessions → the 
+more sessions, the greater the clinical improvement.
+•Placebo 1: minimal, non-significant effect
+•Placebo 2: noticeable improvement
+•Placebo 3: clear improvement in rigidity and thalamic firing
+•Placebo 4: strong, rapid effect similar to apomorphine
+When placebo was administered during surgery, rigidity improved and thalamic 
+firing rate increased markedly, lasting up to a day 
+→The degree of conditioning directly determined the strength and duration of 
+the placebo effect.
+
+---PAGE---
+
+EXPERIMENTAL GROUPS
+
+---PAGE---
+
+EEG STUDY
+It’s my 
+standard dose 
+of L-dopa
+DECEIVE
+= HALF DOSE
+HALF
+= HALF DOSE 
+FULL
+= FULL DOSE 
+It’s my 
+standard dose 
+of L-dopa
+It’s the 50% 
+of my dose of 
+L-dopa
+Carlino et al., Parkinsonisms, 2019
+
+---PAGE---
+
+Medication-off condition           Medication-on condition                    
+UPDRS
+1. Full group (get full dose, told full dose)
+2. Half group (get half dose, told half dose)
+3. Deceit group (get half dose, told full dose)
+Number of 
+flexions
+Rate of perceived 
+exertion
+EEG recording
+Readiness Potential
+UPDRS
+Number of 
+flexions
+Rate of perceived 
+exertion
+EEG recording
+Readiness Potential
+EEG STUDY
+
+---PAGE---
+
+0
+20
+40
+60
+80
+100
+-50
+0
+50
+100
+% improvement
+**
+*
+Full  Deceit  Half  
+% improvement
+**
+*
+Full  Deceit  Half  
+UPDRS
+(part III)
+-50
+0
+50
+100% improvement
+***
+***
+Full  Deceit  Half  
+Fatigue
+EEG STUDY
+Results showed a large difference
+between the two half-dose groups: 
+those who believedthey received 
+the full dose showed much greater 
+clinical improvement than those 
+who knew the dose was reduced.
+
+---PAGE---
+
+Conclusion
+Patients’ expectations about treatment can 
+significantly enhance its clinical efficacy, even 
+when the actual dose is lower.

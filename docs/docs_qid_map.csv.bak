@@ -1,0 +1,10 @@
+file,module,qids,notes
+"Multiple Questions.rtf","Module 1 (General)","Q1.1-Q16.2","explicit QIDs present in RTF (Module 1 section)"
+"Multiple Questions.rtf","Neuroeconomics & Decision Making — Part 2 (Specific Studies)","Q1.1-Q4.3","explicit QIDs present in RTF (Part 2)"
+"Multiple Questions.rtf","Neuroeconomics — Part 3 (Circuitry)","Q1.1-Q4.2","explicit QIDs present in RTF (Part 3 / Circuitry)"
+"Multiple Questions.rtf","Module 3 — Mind Change","Q1.1-Q7.2","explicit QIDs present in RTF under 'Module 3: Mind Change'"
+"Multiple Questions.rtf","Module 3 — Videogaming","Q1.1-Q10.2","explicit QIDs present in RTF under 'Videogaming'"
+"Multiple Questions.rtf","Placebo / Nocebo / RCTs (Module 4 topics)","Q1.1-Q11.2","explicit QIDs present across placebo sections and RCT-related sections"
+"Domande di ripasso.md","Module 1","(no explicit QIDs)","Contains canonical prompts without QID labels — map manually or generate QIDs"
+"Domande di ripasso.md","Module 3","(no explicit QIDs)","Contains canonical prompts without QID labels — map manually or generate QIDs"
+"Domande di ripasso.md","Module 4","(no explicit QIDs)","Contains canonical prompts without QID labels — map manually or generate QIDs"

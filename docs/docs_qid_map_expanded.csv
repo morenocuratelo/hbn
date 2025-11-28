@@ -1,0 +1,84 @@
+rtf_qid,context,rtf_text,canonical_id,canonical_text,score
+Q3.2,Modulo 1: General Concepts & Neuroeconomics,Which of the following is a characteristic of 'value'?,M1-Q03,What is value?,0.333
+Q12.2,Modulo 1: General Concepts & Neuroeconomics,Is Neuroeconomics considered a normative or a descriptive theory?,M1-Q12,"What is the difference between a descriptive and a normative theory? Is neuroeconomics a descriptive theory, a normative theory or is it mixed?",0.5
+Q13.2,Modulo 1: General Concepts & Neuroeconomics,"After a decision is finalised and an action is taken, what are the subsequent stages in the decision process?",M1-Q13,Which are the stages of decision process?,0.375
+Q1.2,Part 2 (Specific Studies),What is the primary functional role attributed to the inferior part of the parietal lobe (IPL) in the context of this study?,M1-Q17,What is Chersi et al study about? Which is the role of the inferior part of the parietal lobe (IPL)?,0.438
+Q4.3,Part 2 (Specific Studies),"How was the causal role of the DLPFC in perceptual decision-making proven in subsequent research (e.g., Philiastides et al., 2011)?",M1-Q20,What is the Heekeren et al (2004) study about? What is perceptual decision making? What happens in the brain? What is the role of the ventral temporal cortex? And what about dlPFC? Is causality proven? How?,0.308
+Q6.2,Part 3 (Circuitry and Specific Studies),"In the ""SHOP"" task study by Knutson et al. (2007), which neural pattern predicted a participant's decision to purchase a product?",M1-Q26,What are the Knutson et al study\,0.25
+Q2.2,Module 3: Videogaming,Does Naloxone block the placebo effect only in humans?,M4-Q02,What is Naloxone? Does it work only in humans?,0.375
+Q3.2,Module 3: Videogaming,What is Pentagastrin and what effect does it have in this context?,M4-Q18,How does the placebo effect correlate to the context?,0.25
+Q5.2,Module 3: Videogaming,How can pharmacological blockers reveal specific pathways in placebo analgesia?,M4-Q05,"What is the placebo effect? What is the nocebo effect? How do placebo and nocebo effects engage different neurochemical systems (opioid, cannabinoid, and CCK), and how can pharmacological blockers reveal the specific pathways involved in placebo-induced analgesia or nocebo-induced hyperalgesia?",0.364
+Q7.2,Module 3: Videogaming,Which of the following is NOT part of the central mechanisms identified for the motor placebo?,M4-Q07,What is the motor placebo?,0.25
+Q8.2,Module 3: Videogaming,What is the typical conditioning protocol used in these motor placebo paradigms?,M4-Q07,What is the motor placebo?,0.25
+Q9.2,Module 3: Videogaming,"In the study on hormonal changes (Benedetti et al., 2003), what happened to Growth Hormone (GH) and cortisol levels?",M4-Q09,What is immunosuppression? What are the main findings of Goebel et al (2002) study? What are the hormonal changes?,0.263
+Q3.2,Module 3: Videogaming,Does natural remission occur when a placebo is administered?,M4-Q13,For what is the placebo administered?,0.4
+Q4.2,Module 3: Videogaming,How can regression to the mean affect the interpretation of a clinical trial?,M4-Q15,What is the regression to the mean?,0.286
+Q5.2,Module 3: Videogaming,What is the difference between single-blind and double-blind studies?,M4-Q16,What is the difference between non-randomised and randomised clinical trials? What is the difference between single and double blinding?,0.364
+Q8.2,Module 3: Videogaming,How is a placebo run-in typically conducted?,M4-Q19,What are placebo run-in trials?,0.4
+Q10.2,Module 3: Videogaming,What does the difference between the Open and Hidden administration typically represent?,M4-Q21,What is the open-hidden paradigm?,0.25
+Q13.2,Module 3: Videogaming,What are the two main phases of a classical conditioning procedure?,M4-Q24,What is classical conditioning? What its phases?,0.429
+Q1.2,Module 3: Videogaming,"According to Heekeren et al. (2004), how does the brain make a perceptual decision between two categories (e.g., Face vs. House)?",M1-Q20,What is the Heekeren et al (2004) study about? What is perceptual decision making? What happens in the brain? What is the role of the ventral temporal cortex? And what about dlPFC? Is causality proven? How?,0.25
+Q1.3,Module 3: Videogaming,The study by Chersi et al. highlights the role of the Inferior Parietal Lobule (IPL) in decision making. What is its primary function in this context?,M1-Q17,What is Chersi et al study about? Which is the role of the inferior part of the parietal lobe (IPL)?,0.381
+Q4.2,Module 3: Videogaming,What did the study by Goebel et al. (2002) demonstrate regarding the immune system (immunosuppression)?,M4-Q09,What is immunosuppression? What are the main findings of Goebel et al (2002) study? What are the hormonal changes?,0.375
+Q4.3,Module 3: Videogaming,"From a Bayesian perspective, the placebo effect can be described as:",M4-Q22,Which are the psychological mechanisms involved in the placebo effect? What does it bring to the table the Bayesian perspective?,0.286
+Q1.2,Modulo 1: General Concepts & Neuroeconomics,The term 'price' can take various names depending on the context. Which of the following pairings is incorrect according to the slides?,,,0.071
+Q2.2,Modulo 1: General Concepts & Neuroeconomics,The slides identify three basic elements that constitute 'cost'. Which of the following is one of them?,,,0.091
+Q4.2,Modulo 1: General Concepts & Neuroeconomics,What is the primary goal of a consumer according to the utility function in standard economic theory?,,,0.222
+Q5.2,Modulo 1: General Concepts & Neuroeconomics,"In the specific example of the Allais Paradox provided in the slides (choosing between gambles), what tendency do participants typically exhibit?",,,0.154
+Q6.2,Modulo 1: General Concepts & Neuroeconomics,What conclusion about human rationality can be drawn from the framing effect?,,,0.154
+Q7.2,Modulo 1: General Concepts & Neuroeconomics,"According to Vernon Smith\rquote s 'Induced Value Theory', what feature is a hallmark of experimental economics?",,,0.083
+Q8.2,Modulo 1: General Concepts & Neuroeconomics,What is a routine finding regarding aggregate cooperation in repeated Prisoner\rquote s Dilemma games?,,,0.091
+Q9.2,Modulo 1: General Concepts & Neuroeconomics,Which brain regions did the pioneering imaging study by Sanfey et al. (2003) identify as being activated when responders decide on unfair offers?,,,0.143
+Q10.2,Modulo 1: General Concepts & Neuroeconomics,"Which field of economics focuses on the behaviour of the aggregate economy (e.g., nations)?",,,0.067
+Q11.2,Modulo 1: General Concepts & Neuroeconomics,What is the primary aim of Neuroeconomics?,,,0.2
+Q14.2,Modulo 1: General Concepts & Neuroeconomics,"If a researcher needs to differentiate the activation of specific (spatial) neuronal populations with high precision, which method is most suitable?",,,0.095
+Q15.2,Modulo 1: General Concepts & Neuroeconomics,Dynamic methods allow us to study brain functions. Which of the following is a dynamic method?,,,0.13
+Q16.2,Modulo 1: General Concepts & Neuroeconomics,What is a specific disadvantage (con) of fMRI?,,,0.05
+Q2.2,Part 2 (Specific Studies),"Which brain region did Newsome record from, and what relationship did they find between neuronal activity and behaviour?",,,0.105
+Q3.2,Part 2 (Specific Studies),"Based on the lecture slides regarding the neural implementation of the diffusion model in motion tasks, which brain area is identified as the ""higher level decision"" region that integrates evidence and inhibits alternative decisions?",,,0.071
+Q4.2,Part 2 (Specific Studies),What was the specific function attributed to the Dorsolateral Prefrontal Cortex (DLPFC) in Heekeren's model?,,,0.133
+Q1.2,Part 3 (Circuitry and Specific Studies),Which of the following best describes the flow of information as modulated by these systems?,,,0.1
+Q2.2,Part 3 (Circuitry and Specific Studies),"In the context of decision-making circuitry, the Amygdala is primarily associated with:",,,0.1
+Q3.2,Part 3 (Circuitry and Specific Studies),A dysregulated dopaminergic system would most likely disrupt the architecture of decision-making by:,,,0.162
+Q4.2,Part 3 (Circuitry and Specific Studies),"According to the slides, the Nucleus Accumbens receives inputs from which set of brain regions?",,,0.083
+Q5.2,Part 3 (Circuitry and Specific Studies),"In Tobler's experiment, what happened when the ""AX"" stimulus (Conditioned Inhibitor) was presented?",,,0.077
+Q7.2,Part 3 (Circuitry and Specific Studies),"The phenomenon of ""Satiety"" (e.g., a monkey eating bananas until full) demonstrates what property of OFC neurons?",,,0.023
+Q8.2,Part 3 (Circuitry and Specific Studies),"What does ""Offer Value"" represent in the context of Padoa-Schioppa's OFC recordings?",,,0.167
+Q10.2,Part 3 (Circuitry and Specific Studies),"In the study on moral judgments (Young et al., 2010), how did vmPFC patients differ from controls when judging ""attempted harms"" (e.g., failed attempt to poison)?",,,0.13
+Q11.2,Part 3 (Circuitry and Specific Studies),"What happens when the right dlPFC is disrupted using rTMS (Knoch et al., 2006) during an Ultimatum Game?",,,0.214
+Q12.2,Part 3 (Circuitry and Specific Studies),What is the Error-Related Negativity (ERN)?,,,0.143
+Q1.2,Module 3: Mind Change,What was the significant finding by Mark Rosenzweig regarding the brains of rats in enriched cages compared to standard cages?,,,0.071
+Q2.2,Module 3: Mind Change,What does the van Dellen study suggest about the relationship between genes and environment?,,,0.154
+Q3.2,Module 3: Mind Change,What correlation was observed between the brain structure of taxi drivers and their experience?,,,0.133
+Q4.2,Module 3: Mind Change,"What did the study on mathematicians (Aydin et al., 2007) reveal about grey matter density?",,,0.214
+Q5.2,Module 3: Mind Change,Which brain region showed increased activation when participants viewed their own photos that had received many likes (social reward)?,,,0.067
+Q6.2,Module 3: Mind Change,"What is the proposed biological mechanism underlying the ""craving"" for social media interaction?",,,0.062
+Q7.2,Module 3: Mind Change,What effect did the communication methods have on Cortisol (stress hormone) levels in the Seltzer study?,,,0.176
+Q1.2,Module 3: Videogaming,"In the context of the reward system, what did the brain imaging study on 'Ecstasy' users and gamers reveal about dopamine receptors?",,,0.167
+Q2.2,Module 3: Videogaming,"According to K\'fchn et al. (2011), what structural change in the brain is correlated with frequent video game playing?",,,0.118
+Q3.2,Module 3: Videogaming,Research by Nicholas Carnagey on the autonomic nervous system suggests that brief exposure to violent videogames leads to:,,,0.118
+Q4.2,Module 3: Videogaming,"What mediates the link between violent video game exposure and increased aggression, according to the study by Hasan, B\'e8gue, and Bushman (2012)?",,,0.067
+Q5.2,Module 3: Videogaming,"According to Hasan et al. (2012), what is the relationship between 'cardiac coherence' and aggression in gamers?",,,0.167
+Q6.2,Module 3: Videogaming,The suppression of the amygdala and rACC during violent gaming is interpreted by researchers as:,,,0.077
+Q7.2,Module 3: Videogaming,"Conversely, what positive visual-attentional benefit did Green and Bavelier (2003) and Appelbaum et al. (2013) find in action gamers?",,,0.111
+Q8.2,Module 3: Videogaming,"According to the 'Google Effect' research, when people are faced with a gap in their knowledge, they are primed to:",,,0.176
+Q9.2,Module 3: Videogaming,What was the key finding of Experiment 2 regarding the encoding of information?,,,0.091
+Q10.2,Module 3: Videogaming,The overall conclusion of the Sparrow et al. studies on the Google Effect is that:,,,0.167
+Q1.2,Module 3: Videogaming,How does the aim of clinical practice differ from that of clinical trials regarding the placebo effect?,,,0.2
+Q4.2,Module 3: Videogaming,"If a subject is preconditioned with a non-opioid drug like Ketorolac, which substance will block the subsequent placebo analgesia?",,,0.088
+Q6.2,Module 3: Videogaming,"What happens to the placebo effect if the DLPFC is transiently inactivated (e.g., via TMS)?",,,0.154
+Q11.2,Module 3: Videogaming,How long did the effects of strong conditioning (Placebo 4 group) last in the single-neuron recording study?,,,0.111
+Q1.2,Module 3: Videogaming,Which of the following best describes pharmacokinetics?,,,0.143
+Q2.2,Module 3: Videogaming,What is the primary goal regarding the placebo effect in a standard clinical trial setting?,,,0.182
+Q6.2,Module 3: Videogaming,Which phase of a clinical trial involves post-marketing surveillance?,,,0.167
+Q7.2,Module 3: Videogaming,Which of the following contextual factors can influence the therapeutic outcome?,,,0.083
+Q9.2,Module 3: Videogaming,What is the 'Balanced Placebo Design' (often used to disentangle drug vs expectation effects)?,,,0.167
+Q11.2,Module 3: Videogaming,"In the Bayesian perspective of the brain, what is a 'Prediction Error' (PE)?",,,0.143
+Q12.2,Module 3: Videogaming,"If a patient has a 'Prior with high certainty' (high precision), what is likely to happen when they receive contradictory sensory input (e.g. no pain)?",,,0.043
+Q2.2,Module 3: Videogaming,"In the Ultimatum Game, a Responder often rejects an ""unfair"" offer (e.g., receiving only 20% of the pot). Which brain region is most active during this rejection and correlates with the negative emotional response?",,,0.077
+Q2.3,Module 3: Videogaming,"In the Prisoner's Dilemma, mutual cooperation is often observed despite the incentive to defect. Which brain area is associated with the intrinsic reward of cooperating with another human?",,,0.059
+Q3.2,Module 3: Videogaming,"According to the study by Ophir et al. (2009) on Media Multitasking, how do Heavy Media Multitaskers (HMMs) compare to Light Media Multitaskers (LMMs)?",,,0.176
+Q3.3,Module 3: Videogaming,Research on social media usage has found a correlation between the frequency of checking Facebook and the volume of a specific brain structure. Which one?,,,0.103
+Q3.4,Module 3: Videogaming,"Unlike social media, Action Video Games (AVGs) have been linked to specific cognitive improvements (Green & Bavelier). Which of the following is NOT one of the improved domains?",,,0.043
+Q4.4,Module 3: Videogaming,"Which neurochemical system is known as the ""anti-opioid"" system and is primarily responsible for the Nocebo effect (hyperalgesia)?",,,0.179
+Q4.5,Module 3: Videogaming,"Anatomically, which brain region acts as the ""pivot point"" that translates prefrontal expectations into the release of endogenous opioids in the brainstem (PAG)?",,,0.053

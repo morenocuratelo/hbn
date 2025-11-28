@@ -1,0 +1,277 @@
+Module 3: Technology, Learning, and the 
+Brain (Complete Summary)  
+1. Change of the World: from 3D to 2D  
+Based on the work of Susan Greenfield, the fundamental premise for this module is that we 
+are living through an unprecedented environmental shift from a "3D world" to a "2D world."  
+The 3D to 2D Transition  
+The two environments can be defined as:  
+● 3D World:  The physical, tangible world of "real life" in which human brains evolved.  
+● 2D World:  The screen-mediated environment (PCs, smartphones, tablets) where we 
+spend an ever-increasing portion of our time.  
+This new 2D environment has specific, defining characteristics that differ from the 3D world:  
+● Technology is pervasive ("Tech is everywhere").  
+● Information is de -contextualised ("Facts can be accessed at random").  
+● There are no lasting consequences ("Actions can be reverse[d]").  
+● Time is compressed and non-linear ("Time is short").  
+● There is an expectation of 24/7 responsiveness and productivity.  
+Why This Change Is Unique  
+This technological shift is different from previous ones (like the invention of the car or 
+electricity) for two main reasons:  
+A) Pervasiveness 
+Digital technology is not just a tool; it has become an all -encompassing environment.  
+● Statistics (citing 2011 - 2012 data; e.g., Prensky, 2001; Keen, 2007; Selwyn, 2009; 
+KidScape, 2011):  
+○ Commerce:  71% of US adults bought goods online. 
+○ Socialising:  22.5% of all online time was spent on social networks.  
+○ Relationships:  Over 1/3 of US couples married 2005-2012 met online. 
+● Behaviour:  It has become the default way to experience life. A 2012 Badoo survey found 
+24% of social media users reported "missing a key moment" in real life because they 
+were too busy posting about it (Badoo, 2012).  
+● Functionality:  A single device (smartphone/PC) has absorbed dozens of separate real -
+world functions (work, maps, alarm clock, shopping, news, communication, leisure, etc.).  
+B) From "Means" to "End"  
+
+---PAGE---
+
+This is a crucial distinction. A car is a means to an end (getting from A to B). Electricity is a 
+means to an end (powering a light).  
+In contrast, the digital environment (like a social network) has become an end in itself . It is the 
+"place" where people live, socialise, and build their identity, not just a tool to accomplish a 
+separate task. 
+The Generational Divide  
+T hi s 2D  transi ti on i s the fi rst to create a profound generati onal  gap, as defi ned by M arc 
+Pr ensk y  ( 2 001 ) : 
+● Digital Immigrants:  Those born in the 3D world who "learned the language" of 
+technology as adults. Like someone learning a second language, they will always retain 
+an "accent" —a "foot in the past."  
+● Digital Natives:  Those born into the 2D world. It is their "mother tongue." They have 
+known nothing else.  
+The most common modern scenario is that parents are Digital Immigrants, while their 
+children are Digital Natives . This creates a fundamental gap in how these two generations 
+perceive and interact with their environment.  
+2. How Our Brain Works and Changes  
+This section establishes the biological basis for the lecture's core argument: the human brain 
+is not fixed but is profoundly shaped by experience. This principle is known as 
+neuroplasticity . 
+The Core Principle: The Brain Adapts  
+The brain is sculpted by a lifetime of experiences. As brain development expert Bryan Kolb 
+(2009) states, "Anything that changes your brain, changes who you will be."  
+This is not a passive process. Experience alters brain activity, which in turn changes gene 
+expression. Behavioural changes reflect physical alterations in the brain, and conversely, 
+behaviour can change the brain.  
+Evidence for Neuroplasticity  
+A large body of research demonstrates that the brain physically adapts to the environment 
+and to specific training.  
+● Animal Studies:  
+○ Historical Evidence (Malacarne, 1783):  Trained dogs and birds showed an 
+increased number of folds in the cerebellum (Doidge, 2007).  
+○ Enriched Environments (Rosenzweig, 1964):  Rats in "enriched cages" (with toys) 
+
+---PAGE---
+
+developed superior problem -sol vi ng sk i l l s and measurabl e physi cal  brai n changes 
+compared to rats i n "standard cages."  
+○ Gene- Environment Interaction (Van Dellen et al., 2000):  Mice with the 
+Huntington's disease gene raised in an enriched environment developed movement 
+problems much later and less severely, showing how "nurture" (environment) 
+interacts with "nature" (genes).  
+● Human Studies (Specific Skills):  
+○ Early Life Plasticity (Bavelier & Neville, 2002):  In cases of early blindness, the 
+visual cortex is not being used for its normal job, so it adapts to process sound 
+inputs. This "cortical remapping" can result in sharper hearing.  
+○ London Taxi Drivers (Maguire et al., 2000):  Compared to controls, taxi drivers had 
+significantly increased grey matter volume in the posterior hippocampus  (spatial 
+navigation). The volume correlated positively with the amount of time spent as a taxi 
+driver. 
+○ Musicians (Elbert et al., 1995):  String players have a larger cortical map 
+(representation) for the fingers of their (more active) left hand. These structural 
+differences are linked to the intensity of practice . 
+○ Mathematicians (Aydin et al., 2007):  Grey matter density in the right inferior 
+parietal region  was strongly correlated with the duration of time the person had 
+spent as an academic mathematician.  
+○ Juggling (Draganski et al., 2004):  After three months of training, subjects showed 
+a significant expansion of grey matter in the mid - temporal area (hMT/V5)  (motion 
+processing). After three months of no practice , this expansion decreased, 
+demonstrating the "use it or you will lose it" principle.  
+Given this overwhelming evidence, a pervasive shift from the 3D to the 2D world will inevitably 
+be causing significant and widespread changes to our brains.  
+3. Effects on Identity and Relationship  
+Th is  s e c t io n e xp lo re s  ho w t he  "2D wo rld ," p a rt ic ula rly s o c ia l me d ia , is  fund a me nt a lly c h a ng ing  
+our concepts of sel f and our methods of soci al  i nteracti on.  
+Effects on Identity  
+Th e  d ig it a l wo rld  p ro vid e s  a  ne w me d ium fo r s e lf-expressi on, whi ch has l ed to new forms of 
+id e nt it y. Ps yc ho lo g ic a l t h e o rie s  ha ve  p ro p o s e d  d iffe re nt  ve rs io ns  o f t h e  s e lf, a nd  t he  d ig it a l 
+worl d has added new l ayers:  
+● Real (life) Self:  T he conventi onal  sel f, constrai ned by face -to -face soci al  norms.  
+● True Self (Carl Rogers, 1951):  T he i nternal  sel f, based on exi sti ng characteri sti cs that 
+are not al ways ex pressed i n soci al  l i fe. 
+● "Hoped - for, possible self" (Zhao et al., 2008):  T hi s i s the modern soci al  medi a sel f. I t 
+
+---PAGE---
+
+is a curated identity that represents not who we are, but who we want to be  (or who we 
+want others to thi nk we are).  
+A Kid S c a p e (201 1 ) survey found that 50% of young peopl e (1 1 -18) lie  a b o ut  p e rs o na l d e t a ils  
+onl i ne to create i denti ti es that are "more sex y" or "more adv enturous."  
+A study by Meshi et al. (2016)  found that the degree of self -related sharing on Facebook 
+was positively correlated with the resting -state functional connectivity between the Medial 
+Prefrontal Cortex (MPFC)  (self-referential thought) and the Dorsolateral Prefrontal 
+Cortex (DLPFC)  (executive function).  
+The Reward of Sharing and "Likes"  
+Sh a rin g  in fo rm a t io n a b o u t  o n e s e lf is  in t rins ic a lly re wa rd in g . Tamir & Mitchell (2012)  
+demonstrated that sel f -di scl osure acti v ates the brai n's core reward systems —speci fi cal l y the 
+Nucleus Accumbens (NAcc) —i n the same way that pri mary rewards l i ke food and sex do.  
+So c ia l me d ia  p ro vid e s  "Qua nt ifia b le  So c ia l End o rs e me nt " (QSE) in t h e  fo rm o f "like s ," wh ic h 
+powerful l y l ev erages thi s reward ci rcui try,  parti cul arl y i n adol escents. 
+● An fMRI study by Sherman et al. (2016)  found that vi ewi ng photos wi th many like s  (vs . 
+few) was associ ated wi th greater acti v i ty i n the Nucleus Accumbens (NAcc) . 
+● Be ha vio ura lly, p a rt ic ip a nt s  we re  mo re  like ly t o  "like " a  p ho t o  (e ve n o f ris ky b e h a vio ur) if it  
+was al ready popul ar.  
+● T hi s NA cc responsi vi ty to soci al  reward appears to peak around age 1 6 -17, h ig hlig h t ing  a  
+ke y wind o w o f vulne ra b ilit y. 
+● T he features of soci al  medi a (i nstant grati fi cati on, unpredi ctabi l i ty) mak e them powerful  
+"dopamine triggers" ( Weinschenk, 2009 ). 
+Effects on Social Relationships  
+T he transi ti on to a 2D worl d has changed the quantity , quality, and style of our social 
+re la t io ns h ip s . 
+Wh ile  t h e  numb e r o f o nline  "frie nd s " h a s  g ro wn (Kanai et al., 2011 ), the number of true 
+confidants  (peopl e wi th whom one can di scuss i mportant matters) i s decl i ni ng ( McPherson 
+et al., 2006 ). 
+W e are al so spendi ng l ess ti me i n face -to -face i nteracti on and more ti me i n non -o ra l, t e xt-
+b a s e d  c o mmunic a t io n (Ofc o m, 20 12). Th is  s h ift  h a s  a  s ig nific a nt , me a s ura b le  p hys io lo g ic a l 
+consequence.  
+A  key study by Sel tzer et al . (201 2) i nvesti gated the hormonal  effects of di fferent types of 
+soci al  support after a stress test:  
+● Hormonal Results:  
+
+---PAGE---
+
+○ Full Contact  (in person) and Verbal Contact  (by phone) led to an increase in 
+Oxytocin  (the "bonding" hormone) and a decrease in Cortisol  (the "stress" 
+hormone). 
+○ Instant Message  (text only) and No Contact  groups showed no increase in 
+oxytocin and their cortisol levels remained high. 
+● Conclusion:  The purely textual information in an instant message is not enough  to 
+provide physiological emotional support. The prosodic cues  (the tone of voice) are 
+critical.  
+This shift has been linked to a general decline in empathy  (Konrath et al., 2011 ) and 
+deficits in face processing  (He et al., 2011 ). The N170 effect (a brainwave component for 
+face processing) was found to be significantly smaller  in excessive internet users (EIUs). 
+Finally, the Nucleus Accumbens (NAcc)  is biologically linked to social media usage. Studies 
+show NAcc sensitivity to reputation predicts Facebook use ( Meshi et al., 2013 ), and lower 
+NAcc volume is associated with higher frequency of checking Facebook ( Montag et al., 
+2017), pointing to a potential biological basis for addictive -like behaviour. 
+4. Effects on Free Time, Aggression, and Attention  
+Th is  s e c t io n e xp lo re s  t he  imp a c t  o f vid e o g a me s , a  p rima ry "2D wo rld " a c t ivit y, o n t he  b ra in's  
+reward system, aggressi on, and attenti onal  capabi l i ti es.  
+Videogames, Free Time, and Addiction  
+Vid e o g a ming  is  a  d o mina nt  le is ure  a c t ivit y, d is p la c ing  o t h e r a c t ivit ie s  like  re a d ing  a nd  
+homework  (H omer et al .,  201 2;  Cummi ngs &  V andewater,  2007). 
+T hi s i ntense engagement i s l i nk ed to the brai n's reward sy stem and dopamine  (W ei nstei n &  
+L ej oyeux, 201 0). Studi es show that frequent vi deo game pl ayers show an enlargement of 
+the ventral striatum (NAcc) , a feature al so seen i n pathol ogi cal  gambl ers (K ühn et al ., 201 1 ).  
+T hi s l eads to a "chicken and egg" dilemma : 
+1. The "Chicken" (Gaming changes the brain):  K ühn et al . (201 1 ) found that the more 
+time spent gaming, the more pronounced the expansion of the left ventral stri atum.  
+2. The "Egg" (The brain predisposes to gaming):  Erickson et al . (201 0) found that the 
+volume of the dorsal striatum  (sensori motor control ) before  trai ning predicted  s kill 
+a c q uis it io n in a  ne w vid e o g a me . 
+A  possi bl e resol uti on i s that a l arger dorsal striatum  mi ght predi spose someone to be good 
+at games, whi l e the act of playing  then changes the ventral striatum  (the reward system).  
+D i fferent game genres are al so l i nk ed to di fferent arousal  patterns (M etcal f &  Pammer, 
+
+---PAGE---
+
+2014): 
+● First -Person Shooters (FPS):  Linked to higher arousal during play ("thrill -seeking" 
+model). 
+● MMORPGs: Linked to decreased arousal during play ("escapist" model).  
+Videogames and Aggression  
+A  l arge body of research expl ores the l i nk between vi ol ent vi deogames and aggressi on.  
+● Behavioural Aggression:  
+○ Konijn et al. (2007):  Fo und  t h a t  a d o le s c e nt  b o ys  wh o  "wis h fully id e nt ifie d " wit h  a  
+realistic violent  game character were the most a g g re s s ive , willing  t o  us e  no is e  le ve ls  
+they bel i eved coul d cause permanent hearing damage  to a partner.  
+○ Hasan et al. (2012):  Found that v i ol ent games i ncrease "hosti l e ex pectati on bi as" 
+(the tendency to percei v e hosti l e i ntent), whi ch i n turn i ncreases aggressi on.  
+● Physiological Effects (Desensitisation):  
+○ Carnagey et al. (2007):  Parti ci pants who pl ayed a violent game showed a 
+s ig nific a nt ly lower heart rate (H R ) and lower g a lva nic  s kin re s p o ns e  (GSR) wh ile  
+watchi ng vi deos of real-life vio le n c e . Th e y we re  p h ys io lo g ic a lly d e s e n s it is e d . 
+● Brain Correlates:  
+○ Mathiak & Weber (2006):  fMR I  studi es show that pl aying vi ol ent games is 
+correl ated wi th deactivation  in e mo t io na l re g io ns  like  t h e  Rostral Anterior 
+Cingulate (rACC)  and the Amygdala . T his suggests emotional  and empathetic 
+brai n regi ons are suppressed to al l ow the pl ayer to act v i ol entl y wi thout hesi tati on.  
+Videogames and Attention  
+T he i mpact of gami ng on attenti on i s twofol d, creati ng both benefi ts and defi ci ts.  
+● The "Bad" (Sustained Attention):  
+○ Gaming i s l inked to more teacher -reported attenti on probl ems (Swi ng et al ., 201 0).  
+○ Th e  link is  bidirectional :  gami ng can l ead to attenti on probl ems, and those wi th 
+attenti on probl ems are drawn to gami ng (Genti l e et al ., 201 2).  
+○ Gami ng ex peri ence i s negatively associated  wit h  "p ro a c t ive  c o nt ro l," o r t h e  a b ilit y t o  
+sustai n attenti on (B ai l ey et al ., 201 0). 
+● The "Good" (Selective Attention):  
+○ Green & Bavelier (2003):  T hi s cl assi c study found that experi enced acti on gamers 
+were signifi cantl y better than non- gamers at v i sual  selective attention  tasks (e.g., 
+t ra c kin g  mu lt ip le  o b je c t s ). Th e y p ro ve d  c a us a lit y b y t ra in in g  no n-gamers, who then 
+showed the same i mprovements.  
+○ Appelbaum et al. (2013):  Fo und  t h a t  a c t io n g a me rs  ha ve  imp ro ve d  vis ua l s e ns it ivit y. 
+T hey can "ex tract more i nformati on from a v i sual  scene... and they do i t faster."  
+○ Real- World Application:  T hese sk i l l s are why  ex peri enced gamers hav e been shown 
+
+---PAGE---
+
+to make excellent drone pilots (McKinley et al., 2011). 
+5. Effects on Memory and Learning  
+T hi s fi nal  secti on expl ores how constant i nformati on access and mul ti taski ng are changi ng 
+c o g nit ive  func t io ns  re la t e d  t o  le a rning . 
+The "Google Effect" (Transactive Memory)  
+T he i nternet has become a pri mary form of "transacti v e memory," an ex ternal  system where 
+i nformati on i s stored col l ecti vel y outsi de oursel ves.  
+A key study by Sparrow, Liu, & Wegner  investigated this:  
+● Experiment 1 (Priming):  When faced with difficult trivia questions, participants were 
+primed  to think of computer -related words.  
+● Experiment 2 (Encoding):  The group that believed trivia statements would be saved 
+had significantly worse memory for the information itself.  
+● Experiment 3 & 4 (Remembering "Where" vs. "What"):  Participants had the best 
+memory for the content  of statements they believed had been erased . However, they 
+were generally better at remembering where information was stored (i.e., which folder) 
+than the information itself.  
+● Conclusion:  We are adapting our memory to prioritise remembering how to find  
+information (the "where") rather than the information itself  (the "what"). This affects 
+semantic memory  (general facts).  
+Information Seeking (Googling)  
+The act of searching is a distinct cognitive skill that physically changes the brain.  
+● Small et al.:  An fMRI study found that "Net Savvy" (experienced) older adults showed 
+increased activation in regions for decision - making and complex reasoning  while 
+searching, compared to "Net Naïve" users. After just five days of training, the "Naïve" 
+group's brains began to look like the "Savvy" group's.  
+● Desjarlais:  An eye-tracking study found High -Attention Students  used a linear search 
+(search engine -> link -> search engine) and performed better  on a comprehension test. 
+Low - Attention Students  jumped between hyperlinks in a non -linear way, got lost in 
+irrelevant sources, and performed worse. 
+Reading on Paper vs. Screen  
+The physical medium we use for reading has a measurable impact on comprehension and 
+fatigue.  
+● Mangen et al.:  Students who read texts in print  scored significantly better  on a reading 
+comprehension test than those who read the same text as a PDF.  
+
+---PAGE---
+
+● Jeong:  This study confirmed that students had better reading comprehension from 
+paper books (p - books) . Using CFF (critical flicker/fusion frequency) to measure eye 
+fatigue, it also found students had significantly greater  eye fatigue after reading e-
+books . 
+Media Multitasking and Cognitive Control  
+A d e fining  fe a t ure  o f t h e  d ig it a l wo rld  is  "me d ia  mult it a s king ." Re s e a rc h  s h o ws  t h is  is  no t  a  
+s kill b ut  a  d e t rime nt  t o  c o g nit ive  c o nt ro l. 
+● Ophir et al. (2009):  Thi s foundati onal study identifi ed Heavy Media Mul titaskers (HMMs) 
+and L i ght M edi a M ul ti taskers (L M M s). 
+○ Task (Filtering):  Parti ci pants were tol d to focus on red bars and i gnore di stracti ng 
+bl ue bars.  
+○ Finding:  T he L M M s (L i ght M ul ti taskers) successful l y i gnored the di stractors. T he 
+H M M s (H eavy M ul ti task ers) could not .  T hei r performance got progressi v el y  worse as 
+the number of di stracti ng i tems i ncreased.  
+○ Conclusion:  Ch ro nic  me d ia  mult it a s ke rs  a re  not better at mul ti task i ng. T hey are 
+worse a t  a  fund a me nt a l c o g nit ive  s kill: filtering out irrelevant information . 

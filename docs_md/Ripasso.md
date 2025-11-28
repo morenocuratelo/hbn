@@ -783,7 +783,7 @@ __Answer Key \(Part 3 \- Circuitry\)__
 - Q12\.1: A
 - Q12\.2: B
 
-__Modulo 2: Mind Change__
+__Module 3: Mind Change__
 
 __1\. Enriched Environments__
 
@@ -939,7 +939,7 @@ C\. All forms of communication increased cortisol levels\.
 
 D\. Cortisol was not measured in this study\.
 
-__Answer Key \(Modulo 2 \- Mind Change\)__
+__Answer Key \(Module 3 \- Mind Change\)__
 
 - Q1\.1: B
 - Q1\.2: C
@@ -956,7 +956,7 @@ __Answer Key \(Modulo 2 \- Mind Change\)__
 - Q7\.1: B
 - Q7\.2: B
 
-__Modulo 2: Videogaming__
+__Module 3: Videogaming__
 
 __1\. Videogaming and the reward system__
 

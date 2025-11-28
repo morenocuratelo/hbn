@@ -33,6 +33,7 @@ Questi aggiornamenti sono già registrati nell'elenco delle attività principali
 - [x] `Final syntax check` — Node VM compile-only check confermato (`PARSE_OK`).
 - [x] `Create ESLint config` — aggiunta `.eslintrc.json`.
 - [x] `Create eslint.config.cjs` — aggiunta config compatibile ESLint v9.
+ - [x] `Finalize and commit` — creato backup finale `doc_texts.js.final.bak` e commit (d2ed7c5).
 
 ## **🔎 Risultati Scan QID (28/11/2025)**
 
@@ -43,6 +44,31 @@ Questi aggiornamenti sono già registrati nell'elenco delle attività principali
 
 Conclusione: il dataset di QID tra `data.js` e `doc_texts.js` è coerente. `app.js` non contiene riferimenti letterali ai QID da verificare.
 
+## **📦 Inventario `docs/` (inizio, 28/11/2025)**
+
+Ho effettuato una prima scansione della cartella `docs/` e trovato i seguenti file (ordinati):
+
+ - `1_Cortical control of a tablet computer by people with paralysis.md`
+ - `1_Cortical control of a tablet computer by people with paralysis.pdf`
+ - `1_Neuro_mech-1.pdf`
+ - `2_1xn2.Fqv7c8lyq6Fk.file.md`
+ - `2_1xn2.Fqv7c8lyq6Fk.file.pdf`
+ - `2_MindChange_part1.pdf`
+ - `2_MindChange_part2.pdf`
+ - `2_MindChange_part3.pdf`
+ - `2_RCT_PSYCH_MECHANISMS.pdf`
+ - `3_cp9q.vZHFBn9oMUZP.file.pdf`
+ - `Domande di ripasso.docx`
+ - `Domande di ripasso.md`
+ - `Key takeaways.docx`
+ - `Key takeaways.md`
+ - `MODULE 3 synthesis.docx`
+ - `Ripasso.docx`
+ - `Synth.docx`
+
+Prossimo passo (in questa attività): estrarre per ogni file il tipo (pdf/md/docx) e mappare manualmente le associazioni slide→QID. Vuoi che proceda e generi una tabella CSV/markdown con colonne `filename, type, suggested module/notes` ora? 
+
+
 
 
 ### **🔥 Fase 1: Discovery & Preparazione Contenuti**
@@ -51,23 +77,24 @@ Conclusione: il dataset di QID tra `data.js` e `doc_texts.js` è coerente. `app.
 
 | ID Task | Attività | Stato | Priorità | Note |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.1 | Inventario completo degli asset `docs/*.pdf` e tracciamento dei riferimenti slide ↔ Domande di Ripasso | [ ] | ALTA | Mappare pagine/chapter per citazioni future |
-| 1.2 | Verifica coerenza IDs (M1/M3/M4) tra `doc_texts.js`, `data.js` e app di rendering | [ ] | CRITICA | Riutilizzare gli script di validazione wiki già presenti |
-| 1.3 | Aggiornare la tassonomia: rinominare l'ex "Modulo 2" in "Module 3: Mind Change" nei dataset sorgente | [ ] | MEDIA | Garantire che i file markdown di origine riflettano la nuova nomenclatura |
-| 1.4 | **Mappa coperture domande:** analizzare ogni sezione in `data.js` (definitions, text-block, process-flow, chart-section, grid-cards) e segnare quali hanno/mancano `wiki` arrays | [ ] | CRITICA | Creare foglio di lavoro modulo→sezione→QID coverage |
-| 1.5 | Costruire schema modulo→QID di riuso: identificare quali Domande possono essere condivise tra sezioni senza duplicazione | [ ] | ALTA | Obiettivo: evitare che lo stesso QID appaia in due study-guide distinti |
-| 1.6 | Audit delle definizioni statiche: elencare tutte le `definitions` arrays e verificare se esistono risposte corrispondenti in `doc_texts.js` | [ ] | MEDIA | Prepararsi a convertire definizioni in study-guide cards |
+| 1.1 | Inventario completo degli asset `docs/*.pdf` e tracciamento dei riferimenti slide ↔ Domande di Ripasso | [x] | ALTA | Coperto in `docs/docs_inventory.md` + indici `docs_pdf_texts_index.csv` / `docs_pdf_images_index.csv` |
+| 1.2 | Verifica coerenza IDs (M1/M3/M4) tra `doc_texts.js`, `data.js` e app di rendering | [x] | CRITICA | QID allineati (`data.js`=73, `doc_texts.js`=73, nessun mismatch) |
+| 1.3 | Aggiornare la tassonomia: rinominare l'ex "Module 3" in "Module 3: Mind Change" nei dataset sorgente | [ ] | MEDIA | Garantire che i file markdown di origine riflettano la nuova nomenclatura |
+| 1.4 | **Mappa coperture domande:** analizzare ogni sezione in `data.js` (definitions, text-block, process-flow, chart-section, grid-cards) e segnare quali hanno/mancano `wiki` arrays | [x] | CRITICA | Coperto in `audit_qid.md` (module→sezione→QID coverage) |
+| 1.5 | Costruire schema modulo→QID di riuso: identificare quali Domande possono essere condivise tra sezioni senza duplicazione | [x] | ALTA | Generato `docs/docs_qid_reuse_report.md` via `scripts/analyze_qid_reuse.py` — review recommended |
+| 1.6 | Audit delle definizioni statiche: elencare tutte le `definitions` arrays e verificare se esistono risposte corrispondenti in `doc_texts.js` | [x] | MEDIA | Generato `docs/definitions_audit.md` via `scripts/audit_definitions.py` — follow-up: convert definitions to study-guide cards |
 
-### **🔍 Fase 1.5: Risoluzione Contenuti "Modulo 2" Orfani**
+### **🔍 Fase 1.5: Risoluzione Contenuti "Module 3" Orfani**
 
 **Stima Sforzo:** 0.5 giorni
 
 | ID Task | Attività | Stato | Priorità | Note |
 | :---- | :---- | :---- | :---- | :---- |
 | 1.5.1 | Decisione strategica: creare view dedicata `module2` in `HBN_DATA.nav` oppure fondere contenuti dentro Module 3 | [ ] | CRITICA | Consultare docente/stakeholder per scelta finale |
-| 1.5.2 | Se fusione → mappare QID "Modulo 2" (Mind Change topics) dentro le sezioni di Module 3 esistenti | [ ] | ALTA | Aggiornare `data.js` sections per includere nuovi wiki IDs |
+| 1.5.1 | Decisione strategica: creare view dedicata `module2` in `HBN_DATA.nav` oppure fondere contenuti dentro Module 3 | [x] | CRITICA | Decisione: lasciare i riferimenti `Modulo 2` nei file RTF originali intatti; operare sulle versioni testuali/generate (scansione/estratti) per il riallineamento |
+| 1.5.2 | Se fusione → mappare QID "Module 3" (Mind Change topics) dentro le sezioni di Module 3 esistenti | [ ] | ALTA | Aggiornare `data.js` sections per includere nuovi wiki IDs (pendente — procederò su richiesta) |
 | 1.5.3 | Se view separata → creare entry nav, intro, hero, e almeno 3 sezioni interattive (study-guide, process-flow, exam-checklist) | [ ] | ALTA | Riutilizzare pattern da module1/module3/module4 |
-| 1.5.4 | Aggiornare `doc_texts.js` heading: rinominare "Modulo 2" in "Module 3" (o "Module 2" se view dedicata) per coerenza | [ ] | MEDIA | Garantire che i prompt parser riconoscano il nuovo modulo |
+| 1.5.4 | Aggiornare `doc_texts.js` heading: rinominare "Module 3" in "Module 3" (o "Module 3" se view dedicata) per coerenza | [ ] | MEDIA | Garantire che i prompt parser riconoscano il nuovo modulo |
 
 ### **🔨 Fase 2: Core Implementation & UI Sync**
 
@@ -116,7 +143,7 @@ Conclusione: il dataset di QID tra `data.js` e `doc_texts.js` è coerente. `app.
 * [ ] **Rischio/Blocco 3:** Disallineamento tra nuove etichette modulo e localStorage chiavi già salvate dagli utenti (es. checklist progress).  
 * [ ] **Rischio/Blocco 4:** Sovrapposizione QID tra sezioni diverse può generare duplicazione cognitiva (stesso concetto ripetuto in contesti diversi).  
 * [ ] **Rischio/Blocco 5:** Tempo stimato per conversione manuale text-block → interactive widgets potrebbe espandersi se il mapping domanda→risposta è ambiguo.  
-* [ ] **Rischio/Blocco 6:** Decisione sulla view "Module 2" potrebbe slittare, bloccando task 1.5.2/1.5.3 e impedendo finalization dei nav links.
+* [ ] **Rischio/Blocco 6:** Decisione sulla view "Module 3" potrebbe slittare, bloccando task 1.5.2/1.5.3 e impedendo finalization dei nav links.
 
 ## **🔗 Riferimenti & Risorse**
 
@@ -133,3 +160,8 @@ docs\3_cp9q.vZHFBn9oMUZP.file.pdf (verificare se convertiti da PDF originali)
 * **Modello LLM:** GPT-5.1-Codex (Preview) con temperature basse per la generazione dei testi d'esame  
 * **Script di Validazione:** Node.js one-liner per audit wiki IDs (già testato in terminal history)  
 * **Pattern Widget Esistenti:** question-browser, prompt-explorer, study-guide, exam-checklist, interactive-list, accordion-group, process-flow
+
+## **Module 2 Mapping Status**
+
+- [x] **Map Module 2 → Module 3:** Completed — scan found no editable artifacts requiring remapping. Remaining "Modulo 2" occurrences are inside binary RTF/docx archives (e.g. `docs/Multiple Questions.rtf`) and `.bak` files which were intentionally left untouched. See `docs/mod2_to_m3_changelog.md` for details and recommended next steps.
+

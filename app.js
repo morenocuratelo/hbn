@@ -272,6 +272,32 @@ const App = {
                     </div>`;
                 break;
             }
+            case 'process-flow': {
+                const steps = Array.isArray(section.steps) ? section.steps : [];
+                const orientation = section.orientation === 'vertical' ? 'vertical' : 'horizontal';
+                const layoutClass = orientation === 'vertical'
+                    ? 'flex flex-col gap-4'
+                    : 'grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4';
+                const processCards = steps.length
+                    ? steps.map((step, stepIdx) => `
+                        <article class="bg-slate-50 border border-slate-100 rounded-2xl p-5 shadow-sm h-full">
+                            <div class="flex items-center gap-3 mb-3">
+                                <div class="w-10 h-10 rounded-2xl bg-${accent}-100 text-${accent}-700 font-bold flex items-center justify-center">${stepIdx + 1}</div>
+                                <h4 class="text-base font-semibold text-slate-800">${this.escapeHtml(step.title || `Fase ${stepIdx + 1}`)}</h4>
+                            </div>
+                            <p class="text-sm text-slate-600 leading-relaxed">${this.escapeHtml(step.detail || '')}</p>
+                        </article>`).join('')
+                    : '<p class="text-sm text-slate-500">Nessun passaggio definito.</p>';
+                body = `
+                    <div class="bg-white rounded-3xl p-6 lg:p-10 shadow-sm border border-slate-200">
+                        ${section.desc ? `<p class="text-slate-600 mb-4">${section.desc}</p>` : ''}
+                        <div class="${layoutClass}">
+                            ${processCards}
+                        </div>
+                        ${wikiFooter}
+                    </div>`;
+                break;
+            }
             case 'grid-cards': {
                 const gridCols = section.items && section.items.length > 2 ? 'md:grid-cols-3' : 'md:grid-cols-2';
                 body = `
@@ -285,6 +311,46 @@ const App = {
                                     <p class="text-sm text-slate-600 leading-relaxed">${this.escapeHtml(item.text)}</p>
                                 </div>`).join('') : '<p class="text-sm text-slate-500">Nessun contenuto.</p>'}
                         </div>
+                        ${wikiFooter}
+                    </div>`;
+                break;
+            }
+            case 'accordion-group': {
+                const items = Array.isArray(section.items) ? section.items : [];
+                const accordionContent = items.length
+                    ? items.map((item, itemIdx) => `
+                        <details class="group border border-slate-200 rounded-2xl bg-slate-50 p-4">
+                            <summary class="cursor-pointer text-slate-800 font-semibold flex items-center justify-between gap-4">
+                                <span>${this.escapeHtml(item.title || `Voce ${itemIdx + 1}`)}</span>
+                                <span class="text-xs text-slate-400">Apri</span>
+                            </summary>
+                            <p class="mt-3 text-sm text-slate-600 leading-relaxed">${this.escapeHtml(item.detail || '')}</p>
+                        </details>`).join('')
+                    : '<p class="text-sm text-slate-500">Nessun elemento disponibile.</p>';
+                body = `
+                    <div class="bg-white rounded-3xl p-6 lg:p-10 shadow-sm border border-slate-200">
+                        ${section.desc ? `<p class="text-slate-600 mb-4">${section.desc}</p>` : ''}
+                        <div class="space-y-3">${accordionContent}</div>
+                        ${wikiFooter}
+                    </div>`;
+                break;
+            }
+            case 'interactive-list': {
+                const items = Array.isArray(section.items) ? section.items : [];
+                const interactiveContent = items.length
+                    ? items.map(item => `
+                        <article class="bg-${accent}-50 border border-${accent}-100 rounded-2xl p-5 shadow-sm hover:shadow-md transition">
+                            <div class="flex items-center justify-between gap-3 mb-2">
+                                <h4 class="text-base font-semibold text-slate-800">${this.escapeHtml(item.title || 'Voce')}</h4>
+                                ${item.summary ? `<span class="text-xs font-semibold text-${accent}-700 bg-white/80 px-2 py-0.5 rounded-full border border-${accent}-200">${this.escapeHtml(item.summary)}</span>` : ''}
+                            </div>
+                            <p class="text-sm text-slate-600 leading-relaxed">${this.escapeHtml(item.detail || '')}</p>
+                        </article>`).join('')
+                    : '<p class="text-sm text-slate-500">Nessuna voce configurata.</p>';
+                body = `
+                    <div class="bg-white rounded-3xl p-6 lg:p-10 shadow-sm border border-slate-200">
+                        ${section.desc ? `<p class="text-slate-600 mb-4">${section.desc}</p>` : ''}
+                        <div class="space-y-4">${interactiveContent}</div>
                         ${wikiFooter}
                     </div>`;
                 break;
@@ -370,6 +436,44 @@ const App = {
                         ${missing.length ? `<p class="text-xs text-amber-600 mt-4">Attenzione: non sono state trovate risposte per ${missing.map(id => this.escapeHtml(id)).join(', ')}.</p>` : ''}
                         ${wikiFooter}
                     </div>`;
+                break;
+            }
+            case 'question-list': {
+                const containerId = `${viewId}-ql-${idx}`;
+                const moduleRef = section.moduleRef || section.module || section.moduleTitle || '';
+                body = `
+                    <div class="bg-white rounded-3xl shadow-sm border border-slate-200 p-6 lg:p-10">
+                        ${section.desc ? `<p class="text-slate-600 mb-4">${section.desc}</p>` : ''}
+                        <div id="${containerId}" data-module="${this.escapeHtml(moduleRef)}" class="space-y-4">
+                            <p class="text-xs text-slate-400">Caricamento domande...</p>
+                        </div>
+                        ${wikiFooter}
+                    </div>`;
+                docWidgets.push(() => this.mountQuestionList(containerId, moduleRef, accent));
+                break;
+            }
+            case 'exam-checklist': {
+                const questions = Array.isArray(section.questions) ? section.questions.filter(q => q && q.id && q.text) : [];
+                const containerId = `${viewId}-ex-${idx}`;
+                const scopeLabel = section.moduleRef ? `<div class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-2">Focus: ${this.escapeHtml(section.moduleRef)}</div>` : '';
+                if (!questions.length) {
+                    body = `
+                        <div class="bg-white rounded-3xl shadow-sm border border-slate-200 p-6 lg:p-10">
+                            ${section.desc ? `<p class="text-slate-600 mb-4">${section.desc}</p>` : ''}
+                            ${scopeLabel}
+                            <p class="text-sm text-slate-500">Nessuna domanda configurata per questa checklist.</p>
+                            ${wikiFooter}
+                        </div>`;
+                } else {
+                    body = `
+                        <div class="bg-white rounded-3xl shadow-sm border border-slate-200 p-6 lg:p-10">
+                            ${section.desc ? `<p class="text-slate-600 mb-4">${section.desc}</p>` : ''}
+                            ${scopeLabel}
+                            <div id="${containerId}"></div>
+                            ${wikiFooter}
+                        </div>`;
+                    docWidgets.push(() => this.mountExamChecklist(containerId, questions, accent, section.moduleRef || viewId));
+                }
                 break;
             }
             case 'qa-accordion': {
@@ -480,6 +584,7 @@ const App = {
             console.warn('Impossibile parsare i documenti di ripasso:', error);
             this.docData = { mcq: [], prompts: [], promptMap: {}, answers: [], answerMap: {} };
         }
+        this.validateWikiReferences();
     },
 
     parseOpenPrompts(text) {
@@ -681,6 +786,42 @@ const App = {
         return { modules, map: answerMap };
     },
 
+    validateWikiReferences() {
+        if (!window.HBN_DATA || !this.docData) return;
+        const missing = new Set();
+        Object.keys(window.HBN_DATA).forEach(key => {
+            const sections = window.HBN_DATA[key]?.sections;
+            if (!Array.isArray(sections)) return;
+            sections.forEach(section => {
+                const wikiList = Array.isArray(section.wiki) ? section.wiki : [];
+                wikiList.forEach(id => {
+                    if (!id) return;
+                    const normalized = id.trim();
+                    if (!this.docData.promptMap[normalized] && !this.docData.answerMap[normalized]) {
+                        missing.add(normalized);
+                    }
+                });
+            });
+        });
+        if (missing.size) {
+            console.warn('Wiki IDs senza corrispondenza nei documenti:', Array.from(missing));
+        }
+    },
+
+    getPromptsByModule(moduleRef) {
+        if (!moduleRef || !Array.isArray(this.docData.prompts)) return [];
+        const key = this.normalizeModuleKey(moduleRef);
+        if (!key) return [];
+        const entry = this.docData.prompts.find(module => this.normalizeModuleKey(module.title) === key);
+        if (!entry) return [];
+        return entry.prompts.map(prompt => ({ ...prompt, module: entry.title }));
+    },
+
+    normalizeModuleKey(value) {
+        if (!value && value !== 0) return '';
+        return value.toString().trim().toLowerCase().replace(/[^a-z0-9]/g, '');
+    },
+
     getAccentColor(value) {
         const allowed = new Set(['teal', 'violet', 'amber', 'rose', 'emerald', 'sky', 'stone']);
         return allowed.has(value) ? value : 'teal';
@@ -725,6 +866,196 @@ const App = {
         select.addEventListener('change', render);
         searchInput.addEventListener('input', render);
         render();
+    },
+
+    mountQuestionList(containerId, moduleRef, accent = 'teal') {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+        const prompts = this.getPromptsByModule(moduleRef);
+        if (!prompts.length) {
+            container.innerHTML = '<p class="text-sm text-slate-500">Non sono state trovate domande per questo modulo.</p>';
+            return;
+        }
+
+        const accentClass = this.getAccentColor(accent);
+        const searchId = `${containerId}-search`;
+        const listId = `${containerId}-list`;
+        const detailId = `${containerId}-detail`;
+
+        container.innerHTML = `
+            <div class="flex flex-col gap-4">
+                <div class="flex flex-col lg:flex-row gap-3 lg:items-center justify-between">
+                    <div class="text-xs uppercase tracking-wide text-slate-400 font-semibold">${prompts.length} domande totali</div>
+                    <div class="flex items-center gap-2 w-full lg:w-1/2">
+                        <span class="material-symbols-rounded text-slate-400">search</span>
+                        <input id="${searchId}" type="search" placeholder="Filtra per parola chiave o ID" class="flex-1 border border-slate-200 rounded-2xl px-4 py-2 text-sm focus:outline-none">
+                    </div>
+                </div>
+                <ul id="${listId}" class="space-y-3"></ul>
+                <div id="${detailId}" class="bg-slate-50 border border-slate-200 rounded-2xl p-4 text-sm text-slate-600" hidden></div>
+            </div>`;
+
+        const listEl = document.getElementById(listId);
+        const searchInput = document.getElementById(searchId);
+        const detailPanel = document.getElementById(detailId);
+
+        const renderList = () => {
+            const query = (searchInput.value || '').toLowerCase();
+            const filtered = prompts.filter(item => {
+                if (!query) return true;
+                return (item.text || '').toLowerCase().includes(query) || (item.id || '').toLowerCase().includes(query);
+            });
+            if (!filtered.length) {
+                listEl.innerHTML = '<li class="text-sm text-slate-500">Nessuna domanda corrisponde al filtro.</li>';
+                return;
+            }
+            listEl.innerHTML = filtered.map(item => {
+                const hasAnswer = item.id && this.docData.answerMap[item.id];
+                const idChip = item.id ? `<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-[11px] font-semibold bg-${accentClass}-50 text-${accentClass}-700 border border-${accentClass}-200">${this.escapeHtml(item.id)}</span>` : '';
+                const action = item.id
+                    ? (hasAnswer
+                        ? `<button type="button" data-role="ql-answer" data-id="${this.escapeHtml(item.id)}" class="text-xs font-semibold text-${accentClass}-700 hover:text-${accentClass}-900">Apri risposta →</button>`
+                        : '<span class="text-xs text-slate-400">Risposta non disponibile</span>')
+                    : '<span class="text-xs text-slate-400">ID mancante</span>';
+                return `
+                    <li class="border border-slate-200 rounded-2xl p-4 bg-slate-50 space-y-2">
+                        <p class="text-sm text-slate-700 leading-relaxed">${this.escapeHtml(item.text)}</p>
+                        <div class="flex items-center justify-between">${idChip}${action}</div>
+                    </li>`;
+            }).join('');
+        };
+
+        const showAnswer = (id) => {
+            if (!detailPanel) return;
+            const answer = this.docData.answerMap[id];
+            const prompt = this.docData.promptMap[id];
+            if (!answer) {
+                detailPanel.innerHTML = `<p class="text-sm text-slate-500">Nessuna risposta trovata per ${this.escapeHtml(id)}.</p>`;
+                detailPanel.hidden = false;
+                return;
+            }
+            detailPanel.innerHTML = `
+                <div class="text-xs uppercase tracking-wide text-slate-400 mb-1">${this.escapeHtml(answer.module || moduleRef || 'Ripasso')}</div>
+                <h4 class="text-lg font-semibold text-slate-800 mb-2">${this.escapeHtml(answer.title)}</h4>
+                ${prompt ? `<p class="text-sm text-slate-600 mb-3">Domanda: ${this.escapeHtml(prompt.text)}</p>` : ''}
+                <div class="prose prose-stone max-w-none text-sm">${this.formatAnswerText(answer.body)}</div>`;
+            detailPanel.hidden = false;
+        };
+
+        listEl.addEventListener('click', event => {
+            if (!(event.target instanceof Element)) return;
+            const btn = event.target.closest('[data-role="ql-answer"]');
+            if (!btn) return;
+            event.preventDefault();
+            showAnswer(btn.dataset.id);
+        });
+
+        searchInput.addEventListener('input', renderList);
+        renderList();
+    },
+
+    mountExamChecklist(containerId, questions = [], accent = 'teal', scopeKey = 'global') {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+        if (!questions.length) {
+            container.innerHTML = '<p class="text-sm text-slate-500">Checklist vuota.</p>';
+            return;
+        }
+
+        const accentClass = this.getAccentColor(accent);
+        const normalizedKey = this.normalizeModuleKey(scopeKey) || 'global';
+        const storageKey = `hbn-checklist-${normalizedKey}`;
+        const loadState = () => {
+            if (typeof window === 'undefined' || !window.localStorage) return [];
+            try {
+                const raw = window.localStorage.getItem(storageKey);
+                const parsed = raw ? JSON.parse(raw) : [];
+                return Array.isArray(parsed) ? parsed : [];
+            } catch {
+                return [];
+            }
+        };
+        const persistState = (ids) => {
+            if (typeof window === 'undefined' || !window.localStorage) return;
+            try {
+                window.localStorage.setItem(storageKey, JSON.stringify(ids));
+            } catch {
+                /* ignore quota errors */
+            }
+        };
+
+        const validIds = new Set(questions.map(q => q.id));
+        let completed = new Set(loadState().filter(id => validIds.has(id)));
+
+        container.innerHTML = `
+            <div class="flex items-center justify-between gap-3 flex-wrap mb-4">
+                <div class="text-xs uppercase tracking-wide text-slate-400 font-semibold">${questions.length} domande totali</div>
+                <button type="button" data-role="checklist-reset" class="text-xs font-semibold text-${accentClass}-700 hover:text-${accentClass}-900">Reset progress</button>
+            </div>
+            <div class="w-full h-2 bg-slate-100 rounded-full overflow-hidden">
+                <div class="h-full bg-${accentClass}-500 transition-all" data-role="progress-bar" style="width:0%"></div>
+            </div>
+            <p class="text-sm text-slate-600 mt-2" data-role="progress-label"></p>
+            <ul class="mt-4 space-y-3" data-role="checklist-list"></ul>`;
+
+        const listEl = container.querySelector('[data-role="checklist-list"]');
+        const progressBar = container.querySelector('[data-role="progress-bar"]');
+        const progressLabel = container.querySelector('[data-role="progress-label"]');
+        const resetBtn = container.querySelector('[data-role="checklist-reset"]');
+        if (!listEl || !progressBar || !progressLabel) {
+            container.innerHTML = '<p class="text-sm text-slate-500">Impossibile renderizzare la checklist.</p>';
+            return;
+        }
+
+        const renderList = () => {
+            listEl.innerHTML = questions.map((question, idx) => {
+                const inputId = `${containerId}-item-${idx}`;
+                const isChecked = completed.has(question.id);
+                return `
+                    <li class="border border-slate-200 rounded-2xl p-4 flex items-start gap-4 bg-slate-50">
+                        <input type="checkbox" id="${inputId}" data-id="${this.escapeHtml(question.id)}" class="mt-1 w-4 h-4 rounded border-slate-300 text-${accentClass}-600 focus:ring-${accentClass}-500" ${isChecked ? 'checked' : ''}>
+                        <label for="${inputId}" class="text-sm text-slate-700 leading-relaxed flex-1">
+                            <span class="font-semibold text-slate-900 mr-2">${this.escapeHtml(question.id)}</span>
+                            ${this.escapeHtml(question.text)}
+                        </label>
+                    </li>`;
+            }).join('');
+        };
+
+        const updateProgress = () => {
+            const total = questions.length || 1;
+            const done = completed.size;
+            const percent = Math.round((done / total) * 100);
+            if (progressBar) progressBar.style.width = `${percent}%`;
+            if (progressLabel) progressLabel.textContent = `${done}/${total} completate (${percent}%)`;
+        };
+
+        listEl.addEventListener('change', event => {
+            if (!(event.target instanceof HTMLInputElement)) return;
+            const id = event.target.dataset.id;
+            if (!id) return;
+            if (event.target.checked) {
+                completed.add(id);
+            } else {
+                completed.delete(id);
+            }
+            persistState(Array.from(completed));
+            updateProgress();
+        });
+
+        if (resetBtn) {
+            resetBtn.addEventListener('click', () => {
+                completed = new Set();
+                listEl.querySelectorAll('input[type="checkbox"]').forEach(input => {
+                    input.checked = false;
+                });
+                persistState([]);
+                updateProgress();
+            });
+        }
+
+        renderList();
+        updateProgress();
     },
 
     mountPromptExplorer(containerId) {
